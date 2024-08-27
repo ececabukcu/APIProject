@@ -1,0 +1,1208 @@
+2024-08-22 14:27:39,115 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 14:27:39,115 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 14:27:39,116 - INFO -  * Restarting with stat
+2024-08-22 14:27:39,452 - WARNING -  * Debugger is active!
+2024-08-22 14:27:39,452 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:34:46,302 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 14:34:46,313 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 14:34:46,319 - INFO -  * Restarting with stat
+2024-08-22 14:34:46,662 - WARNING -  * Debugger is active!
+2024-08-22 14:34:46,662 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:36:30,332 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 14:36:30,412 - INFO -  * Restarting with stat
+2024-08-22 14:36:30,788 - WARNING -  * Debugger is active!
+2024-08-22 14:36:30,788 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:36:48,929 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 14:36:48,930 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 14:36:48,934 - INFO -  * Restarting with stat
+2024-08-22 14:36:49,359 - WARNING -  * Debugger is active!
+2024-08-22 14:36:49,359 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:49:43,516 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 14:49:43,616 - INFO -  * Restarting with stat
+2024-08-22 14:49:43,991 - WARNING -  * Debugger is active!
+2024-08-22 14:49:43,998 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:50:56,513 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 14:50:56,598 - INFO -  * Restarting with stat
+2024-08-22 14:50:56,954 - WARNING -  * Debugger is active!
+2024-08-22 14:50:56,961 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:55:56,278 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 14:55:56,278 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 14:55:56,283 - INFO -  * Restarting with stat
+2024-08-22 14:55:56,627 - WARNING -  * Debugger is active!
+2024-08-22 14:55:56,627 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:56:31,870 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 14:56:31,973 - INFO -  * Restarting with stat
+2024-08-22 14:56:32,324 - WARNING -  * Debugger is active!
+2024-08-22 14:56:32,331 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 14:56:35,364 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 14:56:35,473 - INFO -  * Restarting with stat
+2024-08-22 14:56:35,878 - WARNING -  * Debugger is active!
+2024-08-22 14:56:35,885 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:03:12,309 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:03:12,421 - INFO -  * Restarting with stat
+2024-08-22 15:03:12,778 - WARNING -  * Debugger is active!
+2024-08-22 15:03:12,785 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:04:19,222 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:04:19,303 - INFO -  * Restarting with stat
+2024-08-22 15:04:19,670 - WARNING -  * Debugger is active!
+2024-08-22 15:04:19,677 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:04:30,758 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:04:30,856 - INFO -  * Restarting with stat
+2024-08-22 15:04:31,192 - WARNING -  * Debugger is active!
+2024-08-22 15:04:31,192 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:10:36,486 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:10:36,574 - INFO -  * Restarting with stat
+2024-08-22 15:10:36,961 - WARNING -  * Debugger is active!
+2024-08-22 15:10:36,966 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:15:34,923 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:15:35,012 - INFO -  * Restarting with stat
+2024-08-22 15:15:35,382 - WARNING -  * Debugger is active!
+2024-08-22 15:15:35,386 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:18:36,667 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:18:36,752 - INFO -  * Restarting with stat
+2024-08-22 15:18:37,102 - WARNING -  * Debugger is active!
+2024-08-22 15:18:37,106 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:20:57,014 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:20:57,115 - INFO -  * Restarting with stat
+2024-08-22 15:20:57,625 - WARNING -  * Debugger is active!
+2024-08-22 15:20:57,632 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:20:58,650 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:20:58,723 - INFO -  * Restarting with stat
+2024-08-22 15:20:59,093 - WARNING -  * Debugger is active!
+2024-08-22 15:20:59,100 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:21:02,601 - INFO - GET request received.
+2024-08-22 15:21:02,612 - INFO - 127.0.0.1 - - [22/Aug/2024 15:21:02] "[35m[1mGET /customers HTTP/1.1[0m" 500 -
+2024-08-22 15:21:21,826 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:21:21,826 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:21:21,834 - INFO -  * Restarting with stat
+2024-08-22 15:21:22,182 - WARNING -  * Debugger is active!
+2024-08-22 15:21:22,182 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:21:31,374 - INFO - GET request received.
+2024-08-22 15:21:31,382 - INFO - 127.0.0.1 - - [22/Aug/2024 15:21:31] "[35m[1mGET /customers HTTP/1.1[0m" 500 -
+2024-08-22 15:22:39,716 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:22:39,805 - INFO -  * Restarting with stat
+2024-08-22 15:22:40,166 - WARNING -  * Debugger is active!
+2024-08-22 15:22:40,175 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:23:17,458 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:23:17,542 - INFO -  * Restarting with stat
+2024-08-22 15:23:17,902 - WARNING -  * Debugger is active!
+2024-08-22 15:23:17,917 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:23:18,941 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:23:19,025 - INFO -  * Restarting with stat
+2024-08-22 15:23:19,415 - WARNING -  * Debugger is active!
+2024-08-22 15:23:19,422 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:23:37,200 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:23:37,200 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:23:37,205 - INFO -  * Restarting with stat
+2024-08-22 15:23:37,569 - WARNING -  * Debugger is active!
+2024-08-22 15:23:37,577 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:23:49,370 - INFO - GET request received.
+2024-08-22 15:23:49,371 - INFO - 127.0.0.1 - - [22/Aug/2024 15:23:49] "[35m[1mGET /customers HTTP/1.1[0m" 500 -
+2024-08-22 15:26:46,720 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:26:46,819 - INFO -  * Restarting with stat
+2024-08-22 15:26:47,183 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:26:47,193 - WARNING -  * Debugger is active!
+2024-08-22 15:26:47,201 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:27:21,786 - INFO - GET request received.
+2024-08-22 15:27:21,786 - INFO - 127.0.0.1 - - [22/Aug/2024 15:27:21] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:30:14,550 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:30:14,655 - INFO -  * Restarting with stat
+2024-08-22 15:30:15,024 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:30:15,033 - WARNING -  * Debugger is active!
+2024-08-22 15:30:15,045 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:30:23,112 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:30:23,336 - INFO -  * Restarting with stat
+2024-08-22 15:30:24,227 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:30:24,253 - WARNING -  * Debugger is active!
+2024-08-22 15:30:24,264 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:30:31,328 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:30:31,411 - INFO -  * Restarting with stat
+2024-08-22 15:30:31,811 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:30:31,824 - WARNING -  * Debugger is active!
+2024-08-22 15:30:31,831 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:30:33,855 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:30:57,603 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:30:57,632 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:30:57,632 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:30:57,645 - INFO -  * Restarting with stat
+2024-08-22 15:30:57,968 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:30:57,983 - WARNING -  * Debugger is active!
+2024-08-22 15:30:57,999 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:31:40,055 - INFO - GET request received.
+2024-08-22 15:31:40,056 - INFO - 127.0.0.1 - - [22/Aug/2024 15:31:40] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:43:15,980 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:43:16,082 - INFO -  * Restarting with stat
+2024-08-22 15:43:16,507 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:43:16,517 - WARNING -  * Debugger is active!
+2024-08-22 15:43:16,526 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:43:18,547 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:43:18,660 - INFO -  * Restarting with stat
+2024-08-22 15:43:18,993 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:43:19,003 - WARNING -  * Debugger is active!
+2024-08-22 15:43:19,008 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:43:46,938 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:43:46,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:43:46,965 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:43:46,969 - INFO -  * Restarting with stat
+2024-08-22 15:43:47,290 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:43:47,306 - WARNING -  * Debugger is active!
+2024-08-22 15:43:47,306 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:43:57,693 - INFO - GET request received.
+2024-08-22 15:43:57,693 - INFO - 127.0.0.1 - - [22/Aug/2024 15:43:57] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:44:20,941 - INFO - 127.0.0.1 - - [22/Aug/2024 15:44:20] "[33mGET / HTTP/1.1[0m" 404 -
+2024-08-22 15:44:21,262 - INFO - 127.0.0.1 - - [22/Aug/2024 15:44:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-22 15:44:35,634 - INFO - GET request received.
+2024-08-22 15:44:35,634 - INFO - 127.0.0.1 - - [22/Aug/2024 15:44:35] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:45:32,465 - INFO - GET request received.
+2024-08-22 15:45:32,465 - INFO - 127.0.0.1 - - [22/Aug/2024 15:45:32] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:47:56,059 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:47:56,136 - INFO -  * Restarting with stat
+2024-08-22 15:47:56,561 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:47:56,585 - WARNING -  * Debugger is active!
+2024-08-22 15:47:56,592 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:47:58,625 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:47:58,722 - INFO -  * Restarting with stat
+2024-08-22 15:47:59,077 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:47:59,087 - WARNING -  * Debugger is active!
+2024-08-22 15:47:59,093 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:48:49,994 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:48:50,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:48:50,038 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:48:50,041 - INFO -  * Restarting with stat
+2024-08-22 15:48:50,363 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:48:50,380 - WARNING -  * Debugger is active!
+2024-08-22 15:48:50,380 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:49:09,457 - INFO - GET request received.
+2024-08-22 15:49:09,457 - INFO - 127.0.0.1 - - [22/Aug/2024 15:49:09] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:51:39,532 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:51:39,599 - INFO -  * Restarting with stat
+2024-08-22 15:51:39,962 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:51:39,973 - WARNING -  * Debugger is active!
+2024-08-22 15:51:39,982 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:52:58,520 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 15:52:58,612 - INFO -  * Restarting with stat
+2024-08-22 15:52:59,009 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'customer.txt'
+2024-08-22 15:52:59,020 - WARNING -  * Debugger is active!
+2024-08-22 15:52:59,028 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:53:00,305 - INFO - GET request received.
+2024-08-22 15:53:00,305 - INFO - 127.0.0.1 - - [22/Aug/2024 15:53:00] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:53:19,274 - INFO - GET request received.
+2024-08-22 15:53:19,274 - INFO - 127.0.0.1 - - [22/Aug/2024 15:53:19] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:54:04,868 - INFO - GET request received.
+2024-08-22 15:54:04,868 - INFO - 127.0.0.1 - - [22/Aug/2024 15:54:04] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:55:13,903 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:55:13,999 - INFO -  * Restarting with stat
+2024-08-22 15:55:14,377 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: '.\\customer.txt'
+2024-08-22 15:55:14,394 - WARNING -  * Debugger is active!
+2024-08-22 15:55:14,400 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:55:34,459 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: '.\\customer.txt'
+2024-08-22 15:55:34,519 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:55:34,519 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:55:34,525 - INFO -  * Restarting with stat
+2024-08-22 15:55:39,675 - INFO - GET request received.
+2024-08-22 15:55:39,676 - INFO - 127.0.0.1 - - [22/Aug/2024 15:55:39] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:55:46,320 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: '.\\customer.txt'
+2024-08-22 15:55:46,335 - WARNING -  * Debugger is active!
+2024-08-22 15:55:46,342 - INFO -  * Debugger PIN: 892-736-228
+2024-08-22 15:56:03,951 - INFO - GET request received.
+2024-08-22 15:56:03,951 - INFO - 127.0.0.1 - - [22/Aug/2024 15:56:03] "GET /customers HTTP/1.1" 200 -
+2024-08-22 15:56:22,619 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: '.\\customer.txt'
+2024-08-22 15:56:22,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:56:22,675 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:56:22,679 - INFO -  * Restarting with stat
+2024-08-22 15:57:38,292 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:57:38,375 - INFO -  * Restarting with stat
+2024-08-22 15:57:38,726 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customer.txt'
+2024-08-22 15:57:38,737 - WARNING -  * Debugger is active!
+2024-08-22 15:57:38,743 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:57:55,878 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:57:55,953 - INFO -  * Restarting with stat
+2024-08-22 15:57:56,305 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customer.txt'
+2024-08-22 15:57:56,322 - WARNING -  * Debugger is active!
+2024-08-22 15:57:56,322 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:58:08,431 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 15:58:08,523 - INFO -  * Restarting with stat
+2024-08-22 15:58:08,936 - INFO - Customer data loaded successfully.
+2024-08-22 15:58:08,946 - WARNING -  * Debugger is active!
+2024-08-22 15:58:08,958 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:58:15,421 - INFO - Customer data loaded successfully.
+2024-08-22 15:58:15,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:58:15,454 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:58:15,459 - INFO -  * Restarting with stat
+2024-08-22 15:58:15,778 - INFO - Customer data loaded successfully.
+2024-08-22 15:58:15,794 - WARNING -  * Debugger is active!
+2024-08-22 15:58:15,794 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 15:58:21,857 - INFO - GET request received.
+2024-08-22 15:58:21,858 - INFO - 127.0.0.1 - - [22/Aug/2024 15:58:21] "GET /customers HTTP/1.1" 200 -
+2024-08-22 16:02:40,302 - INFO - Customer data loaded successfully.
+2024-08-22 16:02:40,330 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:02:40,330 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:02:40,335 - INFO -  * Restarting with stat
+2024-08-22 16:02:40,722 - INFO - Customer data loaded successfully.
+2024-08-22 16:02:40,734 - WARNING -  * Debugger is active!
+2024-08-22 16:02:40,739 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:02:49,684 - INFO - GET request received.
+2024-08-22 16:02:49,684 - INFO - 127.0.0.1 - - [22/Aug/2024 16:02:49] "GET /customers HTTP/1.1" 200 -
+2024-08-22 16:03:51,107 - INFO - 127.0.0.1 - - [22/Aug/2024 16:03:51] "[31m[1mGET /customers/1234 HTTP/1.1[0m" 405 -
+2024-08-22 16:03:55,538 - INFO - 127.0.0.1 - - [22/Aug/2024 16:03:55] "[31m[1mPUT /customers/1234 HTTP/1.1[0m" 415 -
+2024-08-22 16:04:28,138 - INFO - 127.0.0.1 - - [22/Aug/2024 16:04:28] "[31m[1mPUT /customers/1234 HTTP/1.1[0m" 415 -
+2024-08-22 16:04:36,941 - INFO - 127.0.0.1 - - [22/Aug/2024 16:04:36] "[31m[1mPUT /customers/1234 HTTP/1.1[0m" 415 -
+2024-08-22 16:04:50,575 - ERROR - Invalid data received.
+2024-08-22 16:04:50,575 - INFO - 127.0.0.1 - - [22/Aug/2024 16:04:50] "[31m[1mPUT /customers/1234 HTTP/1.1[0m" 400 -
+2024-08-22 16:05:33,286 - INFO - 127.0.0.1 - - [22/Aug/2024 16:05:33] "[31m[1mGET /customers/1234 HTTP/1.1[0m" 405 -
+2024-08-22 16:05:40,401 - INFO - GET request received.
+2024-08-22 16:05:40,402 - INFO - 127.0.0.1 - - [22/Aug/2024 16:05:40] "GET /customers HTTP/1.1" 200 -
+2024-08-22 16:06:01,538 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:06:01,538 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:06:01,538 - INFO - 127.0.0.1 - - [22/Aug/2024 16:06:01] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:06:26,902 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:06:26,902 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:06:26,902 - INFO - 127.0.0.1 - - [22/Aug/2024 16:06:26] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:06:40,789 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:06:40,789 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:06:40,790 - INFO - 127.0.0.1 - - [22/Aug/2024 16:06:40] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:07:26,990 - INFO - GET request received.
+2024-08-22 16:07:26,990 - INFO - 127.0.0.1 - - [22/Aug/2024 16:07:26] "GET /customers HTTP/1.1" 200 -
+2024-08-22 16:07:38,822 - INFO - Customer data loaded successfully.
+2024-08-22 16:07:38,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:07:38,862 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:07:38,866 - INFO -  * Restarting with stat
+2024-08-22 16:07:39,193 - INFO - Customer data loaded successfully.
+2024-08-22 16:07:39,210 - WARNING -  * Debugger is active!
+2024-08-22 16:07:39,210 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:10:22,344 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:10:22,344 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:10:22,345 - INFO - 127.0.0.1 - - [22/Aug/2024 16:10:22] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:11:14,526 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:11:14,653 - INFO -  * Restarting with stat
+2024-08-22 16:11:15,013 - INFO - Customer data loaded successfully.
+2024-08-22 16:11:15,021 - WARNING -  * Debugger is active!
+2024-08-22 16:11:15,028 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:11:17,781 - INFO - Customer data loaded successfully.
+2024-08-22 16:11:17,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:11:17,809 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:11:17,812 - INFO -  * Restarting with stat
+2024-08-22 16:11:18,135 - INFO - Customer data loaded successfully.
+2024-08-22 16:11:18,151 - WARNING -  * Debugger is active!
+2024-08-22 16:11:18,166 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:11:19,896 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:11:19,896 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:11:19,897 - INFO - 127.0.0.1 - - [22/Aug/2024 16:11:19] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:12:15,550 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:12:15,628 - INFO -  * Restarting with stat
+2024-08-22 16:12:16,024 - INFO - Customer data loaded successfully.
+2024-08-22 16:12:16,034 - WARNING -  * Debugger is active!
+2024-08-22 16:12:16,043 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:12:18,614 - INFO - Customer data loaded successfully.
+2024-08-22 16:12:18,657 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:12:18,657 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:12:18,661 - INFO -  * Restarting with stat
+2024-08-22 16:12:19,004 - INFO - Customer data loaded successfully.
+2024-08-22 16:12:19,014 - WARNING -  * Debugger is active!
+2024-08-22 16:12:19,024 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:12:22,155 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:12:22,155 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:12:22,156 - INFO - 127.0.0.1 - - [22/Aug/2024 16:12:22] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:13:47,621 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:13:47,721 - INFO -  * Restarting with stat
+2024-08-22 16:13:48,063 - INFO - Customer data loaded successfully.
+2024-08-22 16:13:48,063 - WARNING -  * Debugger is active!
+2024-08-22 16:13:48,063 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:13:55,141 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:13:55,221 - INFO -  * Restarting with stat
+2024-08-22 16:13:55,603 - INFO - Customer data loaded successfully.
+2024-08-22 16:13:55,615 - WARNING -  * Debugger is active!
+2024-08-22 16:13:55,615 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:13:59,136 - INFO - Customer data loaded successfully.
+2024-08-22 16:13:59,171 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:13:59,171 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:13:59,175 - INFO -  * Restarting with stat
+2024-08-22 16:13:59,530 - INFO - Customer data loaded successfully.
+2024-08-22 16:13:59,541 - WARNING -  * Debugger is active!
+2024-08-22 16:13:59,547 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:14:02,036 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:14:02,036 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:14:02,038 - INFO - 127.0.0.1 - - [22/Aug/2024 16:14:02] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:14:41,830 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:14:41,929 - INFO -  * Restarting with stat
+2024-08-22 16:14:42,289 - INFO - Customer data loaded successfully.
+2024-08-22 16:14:42,289 - WARNING -  * Debugger is active!
+2024-08-22 16:14:42,289 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:14:45,727 - INFO - Customer data loaded successfully.
+2024-08-22 16:14:45,754 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:14:45,754 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:14:45,754 - INFO -  * Restarting with stat
+2024-08-22 16:14:46,103 - INFO - Customer data loaded successfully.
+2024-08-22 16:14:46,113 - WARNING -  * Debugger is active!
+2024-08-22 16:14:46,120 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:14:48,963 - ERROR - Failed to save customer data. Error: name 'email' is not defined
+2024-08-22 16:14:48,964 - INFO - Customer updated successfully with key: 1234
+2024-08-22 16:14:48,966 - INFO - 127.0.0.1 - - [22/Aug/2024 16:14:48] "PUT /customers/1234 HTTP/1.1" 200 -
+2024-08-22 16:15:26,448 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:15:26,528 - INFO -  * Restarting with stat
+2024-08-22 16:15:26,905 - INFO - Customer data loaded successfully.
+2024-08-22 16:15:26,919 - WARNING -  * Debugger is active!
+2024-08-22 16:15:26,923 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:16:41,464 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:16:41,561 - INFO -  * Restarting with stat
+2024-08-22 16:16:41,896 - INFO - Customer data loaded successfully.
+2024-08-22 16:16:41,897 - WARNING -  * Debugger is active!
+2024-08-22 16:16:41,897 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:16:55,999 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:16:56,087 - INFO -  * Restarting with stat
+2024-08-22 16:16:56,508 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:16:56,518 - WARNING -  * Debugger is active!
+2024-08-22 16:16:56,528 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:16:58,550 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-22 16:16:58,653 - INFO -  * Restarting with stat
+2024-08-22 16:16:59,033 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:16:59,044 - WARNING -  * Debugger is active!
+2024-08-22 16:16:59,045 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:18:26,606 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-22 16:18:26,692 - INFO -  * Restarting with stat
+2024-08-22 16:18:27,067 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:18:27,078 - WARNING -  * Debugger is active!
+2024-08-22 16:18:27,085 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:18:53,966 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:18:53,995 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:18:53,996 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:18:53,999 - INFO -  * Restarting with stat
+2024-08-22 16:18:54,324 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:18:54,339 - WARNING -  * Debugger is active!
+2024-08-22 16:18:54,339 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:19:35,322 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:19:35,364 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 16:19:35,364 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 16:19:35,364 - INFO -  * Restarting with stat
+2024-08-22 16:19:35,779 - ERROR - Failed to load customer data. Error: [Errno 2] No such file or directory: 'C:\\Users\\ecabukcu\\Desktop\\store\\customers.txt'
+2024-08-22 16:19:35,794 - WARNING -  * Debugger is active!
+2024-08-22 16:19:35,812 - INFO -  * Debugger PIN: 507-096-398
+2024-08-22 16:19:52,599 - INFO - GET request received.
+2024-08-22 16:19:52,599 - INFO - 127.0.0.1 - - [22/Aug/2024 16:19:52] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:08:31,717 - ERROR - Failed to load customer data. Error: no such table: Customers
+2024-08-23 14:08:31,805 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 14:08:31,805 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 14:08:31,812 - INFO -  * Restarting with stat
+2024-08-23 14:08:32,169 - ERROR - Failed to load customer data. Error: no such table: Customers
+2024-08-23 14:08:32,181 - WARNING -  * Debugger is active!
+2024-08-23 14:08:32,188 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:08:47,820 - INFO - GET request received.
+2024-08-23 14:08:47,821 - INFO - 127.0.0.1 - - [23/Aug/2024 14:08:47] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:15:08,438 - INFO - GET request received.
+2024-08-23 14:15:08,438 - INFO - 127.0.0.1 - - [23/Aug/2024 14:15:08] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:15:28,205 - INFO - Customer data loaded successfully.
+2024-08-23 14:15:28,244 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 14:15:28,244 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 14:15:28,247 - INFO -  * Restarting with stat
+2024-08-23 14:15:28,603 - INFO - Customer data loaded successfully.
+2024-08-23 14:15:28,615 - WARNING -  * Debugger is active!
+2024-08-23 14:15:28,625 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:15:53,869 - INFO - GET request received.
+2024-08-23 14:15:53,869 - INFO - 127.0.0.1 - - [23/Aug/2024 14:15:53] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:18:20,748 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-23 14:18:20,831 - INFO -  * Restarting with stat
+2024-08-23 14:18:21,253 - INFO - Customer data loaded successfully.
+2024-08-23 14:18:21,263 - WARNING -  * Debugger is active!
+2024-08-23 14:18:21,271 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:18:40,614 - INFO - Customer data loaded successfully.
+2024-08-23 14:18:40,648 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 14:18:40,649 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 14:18:40,657 - INFO -  * Restarting with stat
+2024-08-23 14:18:41,010 - INFO - Customer data loaded successfully.
+2024-08-23 14:18:41,020 - WARNING -  * Debugger is active!
+2024-08-23 14:18:41,020 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:18:57,181 - INFO - GET request received.
+2024-08-23 14:18:57,181 - INFO - 127.0.0.1 - - [23/Aug/2024 14:18:57] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:18:57,203 - ERROR - Failed to save customer data. Error: execute() argument 1 must be str, not sqlite3.Cursor
+2024-08-23 14:18:57,204 - INFO - Customer updated successfully with key: 1
+2024-08-23 14:18:57,204 - INFO - 127.0.0.1 - - [23/Aug/2024 14:18:57] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 14:19:02,663 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:19:02,663 - INFO - Customer updated successfully with key: 2
+2024-08-23 14:19:02,663 - INFO - 127.0.0.1 - - [23/Aug/2024 14:19:02] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-23 14:19:08,064 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:19:08,071 - INFO - Customer updated successfully with key: 3
+2024-08-23 14:19:08,072 - INFO - 127.0.0.1 - - [23/Aug/2024 14:19:08] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-23 14:19:08,127 - ERROR - Failed to save customer data. Error: execute() argument 1 must be str, not sqlite3.Cursor
+2024-08-23 14:19:08,127 - INFO - Customer updated successfully with key: 4
+2024-08-23 14:19:08,127 - INFO - 127.0.0.1 - - [23/Aug/2024 14:19:08] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-23 14:19:13,608 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:19:13,608 - INFO - Customer updated successfully with key: 5
+2024-08-23 14:19:13,608 - INFO - 127.0.0.1 - - [23/Aug/2024 14:19:13] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-23 14:19:41,462 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-23 14:19:41,553 - INFO -  * Restarting with stat
+2024-08-23 14:19:41,905 - INFO - Customer data loaded successfully.
+2024-08-23 14:19:41,915 - WARNING -  * Debugger is active!
+2024-08-23 14:19:41,921 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:20:05,414 - INFO - 127.0.0.1 - - [23/Aug/2024 14:20:05] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-23 14:20:14,152 - INFO - GET request received.
+2024-08-23 14:20:14,152 - INFO - 127.0.0.1 - - [23/Aug/2024 14:20:14] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:24:35,900 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-23 14:24:35,990 - INFO -  * Restarting with stat
+2024-08-23 14:24:36,368 - INFO - Customer data loaded successfully.
+2024-08-23 14:24:36,377 - WARNING -  * Debugger is active!
+2024-08-23 14:24:36,387 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:25:13,564 - INFO - Customer data loaded successfully.
+2024-08-23 14:25:13,599 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 14:25:13,599 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 14:25:13,601 - INFO -  * Restarting with stat
+2024-08-23 14:25:13,958 - INFO - Customer data loaded successfully.
+2024-08-23 14:25:13,969 - WARNING -  * Debugger is active!
+2024-08-23 14:25:13,979 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 14:25:37,111 - INFO - GET request received.
+2024-08-23 14:25:37,111 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:37] "GET /customers HTTP/1.1" 200 -
+2024-08-23 14:25:37,118 - ERROR - Failed to save customer data. Error: 'customerCity'
+2024-08-23 14:25:37,118 - INFO - Customer updated successfully with key: 1
+2024-08-23 14:25:37,118 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:37] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 14:25:42,550 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:25:42,550 - INFO - Customer updated successfully with key: 2
+2024-08-23 14:25:42,550 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:42] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-23 14:25:43,230 - ERROR - Failed to save customer data. Error: 'customerCity'
+2024-08-23 14:25:43,230 - INFO - Customer updated successfully with key: 3
+2024-08-23 14:25:43,230 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:43] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-23 14:25:48,633 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:25:48,633 - INFO - Customer updated successfully with key: 4
+2024-08-23 14:25:48,633 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:48] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-23 14:25:54,141 - ERROR - Failed to save customer data. Error: database is locked
+2024-08-23 14:25:54,141 - INFO - Customer updated successfully with key: 5
+2024-08-23 14:25:54,141 - INFO - 127.0.0.1 - - [23/Aug/2024 14:25:54] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-23 16:04:48,561 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-23 16:04:48,756 - INFO -  * Restarting with stat
+2024-08-23 16:04:49,655 - INFO - Customer data loaded successfully.
+2024-08-23 16:04:49,686 - WARNING -  * Debugger is active!
+2024-08-23 16:04:49,714 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:04:51,776 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-23 16:04:51,879 - INFO -  * Restarting with stat
+2024-08-23 16:04:52,475 - INFO - Customer data loaded successfully.
+2024-08-23 16:04:52,492 - WARNING -  * Debugger is active!
+2024-08-23 16:04:52,501 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:05:18,461 - INFO - Customer data loaded successfully.
+2024-08-23 16:05:18,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:05:18,523 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:05:18,530 - INFO -  * Restarting with stat
+2024-08-23 16:05:19,085 - INFO - Customer data loaded successfully.
+2024-08-23 16:05:19,105 - WARNING -  * Debugger is active!
+2024-08-23 16:05:19,115 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:05:31,065 - INFO - GET request received.
+2024-08-23 16:05:31,066 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:05:31,078 - INFO - Customer data saved successfully.
+2024-08-23 16:05:31,078 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:05:31,079 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 16:05:31,089 - INFO - Customer data saved successfully.
+2024-08-23 16:05:31,090 - INFO - Customer updated successfully with key: 2
+2024-08-23 16:05:31,091 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-23 16:05:31,103 - INFO - Customer data saved successfully.
+2024-08-23 16:05:31,103 - INFO - Customer updated successfully with key: 3
+2024-08-23 16:05:31,104 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-23 16:05:31,125 - INFO - Customer data saved successfully.
+2024-08-23 16:05:31,126 - INFO - Customer updated successfully with key: 4
+2024-08-23 16:05:31,127 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-23 16:05:31,151 - INFO - Customer data saved successfully.
+2024-08-23 16:05:31,151 - INFO - Customer updated successfully with key: 5
+2024-08-23 16:05:31,152 - INFO - 127.0.0.1 - - [23/Aug/2024 16:05:31] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-23 16:06:52,419 - INFO - GET request received.
+2024-08-23 16:06:52,499 - INFO - 127.0.0.1 - - [23/Aug/2024 16:06:52] "[35m[1mGET /customers HTTP/1.1[0m" 500 -
+2024-08-23 16:07:34,206 - INFO - Customer data loaded successfully.
+2024-08-23 16:07:34,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:07:34,262 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:07:34,276 - INFO -  * Restarting with stat
+2024-08-23 16:07:34,771 - INFO - Customer data loaded successfully.
+2024-08-23 16:07:34,793 - WARNING -  * Debugger is active!
+2024-08-23 16:07:34,800 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:07:38,756 - INFO - GET request received.
+2024-08-23 16:07:38,757 - INFO - 127.0.0.1 - - [23/Aug/2024 16:07:38] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:08:08,231 - INFO - 127.0.0.1 - - [23/Aug/2024 16:08:08] "[31m[1mPOST /customers HTTP/1.1[0m" 405 -
+2024-08-23 16:08:51,499 - INFO - 127.0.0.1 - - [23/Aug/2024 16:08:51] "[31m[1mPOST /customers/1 HTTP/1.1[0m" 405 -
+2024-08-23 16:10:38,141 - INFO - 127.0.0.1 - - [23/Aug/2024 16:10:38] "[31m[1mPOST /customers/1 HTTP/1.1[0m" 405 -
+2024-08-23 16:13:57,504 - INFO - 127.0.0.1 - - [23/Aug/2024 16:13:57] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 400 -
+2024-08-23 16:14:24,627 - INFO - 127.0.0.1 - - [23/Aug/2024 16:14:24] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 400 -
+2024-08-23 16:14:41,583 - INFO - Customer data loaded successfully.
+2024-08-23 16:14:41,665 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:14:41,665 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:14:41,675 - INFO -  * Restarting with stat
+2024-08-23 16:14:42,160 - INFO - Customer data loaded successfully.
+2024-08-23 16:14:42,190 - WARNING -  * Debugger is active!
+2024-08-23 16:14:42,202 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:15:07,928 - INFO - Customer data loaded successfully.
+2024-08-23 16:15:07,982 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:15:07,983 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:15:07,996 - INFO -  * Restarting with stat
+2024-08-23 16:15:08,639 - INFO - Customer data loaded successfully.
+2024-08-23 16:15:08,663 - WARNING -  * Debugger is active!
+2024-08-23 16:15:08,664 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:15:19,703 - INFO - 127.0.0.1 - - [23/Aug/2024 16:15:19] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 400 -
+2024-08-23 16:16:46,194 - INFO - 127.0.0.1 - - [23/Aug/2024 16:16:46] "[35m[1mPUT /customers/1 HTTP/1.1[0m" 500 -
+2024-08-23 16:18:26,412 - INFO - Customer data saved successfully.
+2024-08-23 16:18:26,412 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:18:26,412 - INFO - 127.0.0.1 - - [23/Aug/2024 16:18:26] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 16:18:43,578 - INFO - 127.0.0.1 - - [23/Aug/2024 16:18:43] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-23 16:18:54,008 - INFO - GET request received.
+2024-08-23 16:18:54,033 - INFO - 127.0.0.1 - - [23/Aug/2024 16:18:54] "[35m[1mGET /customers HTTP/1.1[0m" 500 -
+2024-08-23 16:19:15,168 - INFO - Customer data loaded successfully.
+2024-08-23 16:19:15,226 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:19:15,226 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:19:15,235 - INFO -  * Restarting with stat
+2024-08-23 16:19:15,807 - INFO - Customer data loaded successfully.
+2024-08-23 16:19:15,840 - WARNING -  * Debugger is active!
+2024-08-23 16:19:15,850 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:19:18,552 - INFO - GET request received.
+2024-08-23 16:19:18,554 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:18] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:19:40,658 - INFO - GET request received.
+2024-08-23 16:19:40,659 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:19:40,676 - INFO - Customer data saved successfully.
+2024-08-23 16:19:40,676 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:19:40,676 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 16:19:40,695 - INFO - Customer data saved successfully.
+2024-08-23 16:19:40,695 - INFO - Customer updated successfully with key: 2
+2024-08-23 16:19:40,697 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-23 16:19:40,717 - INFO - Customer data saved successfully.
+2024-08-23 16:19:40,718 - INFO - Customer updated successfully with key: 3
+2024-08-23 16:19:40,718 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-23 16:19:40,744 - INFO - Customer data saved successfully.
+2024-08-23 16:19:40,744 - INFO - Customer updated successfully with key: 4
+2024-08-23 16:19:40,745 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-23 16:19:40,767 - INFO - Customer data saved successfully.
+2024-08-23 16:19:40,767 - INFO - Customer updated successfully with key: 5
+2024-08-23 16:19:40,768 - INFO - 127.0.0.1 - - [23/Aug/2024 16:19:40] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-23 16:26:24,153 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-23 16:26:24,292 - INFO -  * Restarting with stat
+2024-08-23 16:26:24,865 - INFO - Customer data loaded successfully.
+2024-08-23 16:26:24,887 - WARNING -  * Debugger is active!
+2024-08-23 16:26:24,896 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:26:52,767 - INFO - Customer data loaded successfully.
+2024-08-23 16:26:52,838 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:26:52,838 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:26:52,849 - INFO -  * Restarting with stat
+2024-08-23 16:26:53,353 - INFO - Customer data loaded successfully.
+2024-08-23 16:26:53,384 - WARNING -  * Debugger is active!
+2024-08-23 16:26:53,394 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:27:04,807 - INFO - GET request received.
+2024-08-23 16:27:04,808 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:04] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:27:24,408 - INFO - GET request received.
+2024-08-23 16:27:24,409 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:24] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:27:24,458 - INFO - Customer data saved successfully.
+2024-08-23 16:27:24,458 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:27:24,479 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:24] "[35m[1mPUT /customers/1 HTTP/1.1[0m" 500 -
+2024-08-23 16:27:24,630 - INFO - Customer data saved successfully.
+2024-08-23 16:27:24,630 - INFO - Customer updated successfully with key: 2
+2024-08-23 16:27:24,653 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:24] "[35m[1mPUT /customers/2 HTTP/1.1[0m" 500 -
+2024-08-23 16:27:24,788 - INFO - Customer data saved successfully.
+2024-08-23 16:27:24,788 - INFO - Customer updated successfully with key: 3
+2024-08-23 16:27:24,806 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:24] "[35m[1mPUT /customers/3 HTTP/1.1[0m" 500 -
+2024-08-23 16:27:24,977 - INFO - Customer data saved successfully.
+2024-08-23 16:27:24,977 - INFO - Customer updated successfully with key: 4
+2024-08-23 16:27:24,992 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:24] "[35m[1mPUT /customers/4 HTTP/1.1[0m" 500 -
+2024-08-23 16:27:25,187 - INFO - Customer data saved successfully.
+2024-08-23 16:27:25,190 - INFO - Customer updated successfully with key: 5
+2024-08-23 16:27:25,194 - INFO - 127.0.0.1 - - [23/Aug/2024 16:27:25] "[35m[1mPUT /customers/5 HTTP/1.1[0m" 500 -
+2024-08-23 16:27:58,963 - INFO - Customer data loaded successfully.
+2024-08-23 16:27:59,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:27:59,025 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:27:59,038 - INFO -  * Restarting with stat
+2024-08-23 16:27:59,616 - INFO - Customer data loaded successfully.
+2024-08-23 16:27:59,636 - WARNING -  * Debugger is active!
+2024-08-23 16:27:59,656 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:28:06,869 - INFO - GET request received.
+2024-08-23 16:28:06,870 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:06] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:28:15,628 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:15] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-23 16:28:34,795 - INFO - Customer data loaded successfully.
+2024-08-23 16:28:34,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:28:34,884 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:28:34,890 - INFO -  * Restarting with stat
+2024-08-23 16:28:35,344 - INFO - Customer data loaded successfully.
+2024-08-23 16:28:35,366 - WARNING -  * Debugger is active!
+2024-08-23 16:28:35,376 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:28:47,488 - INFO - GET request received.
+2024-08-23 16:28:47,489 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:47] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:28:47,499 - INFO - Customer data saved successfully.
+2024-08-23 16:28:47,499 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:28:47,511 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:47] "[35m[1mPUT /customers/1 HTTP/1.1[0m" 500 -
+2024-08-23 16:28:47,606 - INFO - Customer data saved successfully.
+2024-08-23 16:28:47,607 - INFO - Customer updated successfully with key: 2
+2024-08-23 16:28:47,628 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:47] "[35m[1mPUT /customers/2 HTTP/1.1[0m" 500 -
+2024-08-23 16:28:47,764 - INFO - Customer data saved successfully.
+2024-08-23 16:28:47,764 - INFO - Customer updated successfully with key: 3
+2024-08-23 16:28:47,776 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:47] "[35m[1mPUT /customers/3 HTTP/1.1[0m" 500 -
+2024-08-23 16:28:47,918 - INFO - Customer data saved successfully.
+2024-08-23 16:28:47,919 - INFO - Customer updated successfully with key: 4
+2024-08-23 16:28:47,934 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:47] "[35m[1mPUT /customers/4 HTTP/1.1[0m" 500 -
+2024-08-23 16:28:48,139 - INFO - Customer data saved successfully.
+2024-08-23 16:28:48,139 - INFO - Customer updated successfully with key: 5
+2024-08-23 16:28:48,147 - INFO - 127.0.0.1 - - [23/Aug/2024 16:28:48] "[35m[1mPUT /customers/5 HTTP/1.1[0m" 500 -
+2024-08-23 16:29:04,613 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-23 16:29:04,737 - INFO -  * Restarting with stat
+2024-08-23 16:29:05,407 - INFO - Customer data loaded successfully.
+2024-08-23 16:29:05,426 - WARNING -  * Debugger is active!
+2024-08-23 16:29:05,445 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:29:08,507 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-23 16:29:08,613 - INFO -  * Restarting with stat
+2024-08-23 16:29:09,440 - INFO - Customer data loaded successfully.
+2024-08-23 16:29:09,462 - WARNING -  * Debugger is active!
+2024-08-23 16:29:09,477 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:29:11,527 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-23 16:29:11,799 - INFO -  * Restarting with stat
+2024-08-23 16:29:12,578 - INFO - Customer data loaded successfully.
+2024-08-23 16:29:12,632 - WARNING -  * Debugger is active!
+2024-08-23 16:29:12,695 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:29:30,641 - INFO - Customer data loaded successfully.
+2024-08-23 16:29:30,695 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 16:29:30,696 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 16:29:30,710 - INFO -  * Restarting with stat
+2024-08-23 16:29:31,232 - INFO - Customer data loaded successfully.
+2024-08-23 16:29:31,252 - WARNING -  * Debugger is active!
+2024-08-23 16:29:31,262 - INFO -  * Debugger PIN: 507-096-398
+2024-08-23 16:29:51,467 - INFO - GET request received.
+2024-08-23 16:29:51,467 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "GET /customers HTTP/1.1" 200 -
+2024-08-23 16:29:51,520 - INFO - Customer data saved successfully.
+2024-08-23 16:29:51,520 - INFO - Customer updated successfully with key: 1
+2024-08-23 16:29:51,521 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-23 16:29:51,546 - INFO - Customer data saved successfully.
+2024-08-23 16:29:51,546 - INFO - Customer updated successfully with key: 2
+2024-08-23 16:29:51,547 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-23 16:29:51,576 - INFO - Customer data saved successfully.
+2024-08-23 16:29:51,578 - INFO - Customer updated successfully with key: 3
+2024-08-23 16:29:51,579 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-23 16:29:51,599 - INFO - Customer data saved successfully.
+2024-08-23 16:29:51,599 - INFO - Customer updated successfully with key: 4
+2024-08-23 16:29:51,599 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-23 16:29:51,624 - INFO - Customer data saved successfully.
+2024-08-23 16:29:51,624 - INFO - Customer updated successfully with key: 5
+2024-08-23 16:29:51,625 - INFO - 127.0.0.1 - - [23/Aug/2024 16:29:51] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 09:36:55,421 - INFO - Customer data loaded successfully.
+2024-08-26 09:36:55,730 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 09:36:55,730 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 09:36:55,748 - INFO -  * Restarting with stat
+2024-08-26 09:36:56,073 - INFO - Customer data loaded successfully.
+2024-08-26 09:36:56,090 - WARNING -  * Debugger is active!
+2024-08-26 09:36:56,116 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 09:37:09,201 - INFO - GET request received.
+2024-08-26 09:37:09,201 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "GET /customers HTTP/1.1" 200 -
+2024-08-26 09:37:09,221 - INFO - Customer data saved successfully.
+2024-08-26 09:37:09,221 - INFO - Customer updated successfully with key: 1
+2024-08-26 09:37:09,221 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 09:37:09,237 - INFO - Customer data saved successfully.
+2024-08-26 09:37:09,237 - INFO - Customer updated successfully with key: 2
+2024-08-26 09:37:09,238 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 09:37:09,250 - INFO - Customer data saved successfully.
+2024-08-26 09:37:09,250 - INFO - Customer updated successfully with key: 3
+2024-08-26 09:37:09,251 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 09:37:09,265 - INFO - Customer data saved successfully.
+2024-08-26 09:37:09,265 - INFO - Customer updated successfully with key: 4
+2024-08-26 09:37:09,266 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 09:37:09,280 - INFO - Customer data saved successfully.
+2024-08-26 09:37:09,280 - INFO - Customer updated successfully with key: 5
+2024-08-26 09:37:09,280 - INFO - 127.0.0.1 - - [26/Aug/2024 09:37:09] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 09:44:16,274 - INFO - Customer data loaded successfully.
+2024-08-26 09:44:16,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 09:44:16,307 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 09:44:16,312 - INFO -  * Restarting with stat
+2024-08-26 09:44:16,633 - INFO - Customer data loaded successfully.
+2024-08-26 09:44:16,649 - WARNING -  * Debugger is active!
+2024-08-26 09:44:16,649 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 09:44:25,418 - INFO - GET request received.
+2024-08-26 09:44:25,418 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "GET /customers HTTP/1.1" 200 -
+2024-08-26 09:44:25,438 - INFO - Customer data saved successfully.
+2024-08-26 09:44:25,438 - INFO - Customer updated successfully with key: 1
+2024-08-26 09:44:25,438 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 09:44:25,447 - INFO - Customer data saved successfully.
+2024-08-26 09:44:25,447 - INFO - Customer updated successfully with key: 2
+2024-08-26 09:44:25,448 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 09:44:25,458 - INFO - Customer data saved successfully.
+2024-08-26 09:44:25,458 - INFO - Customer updated successfully with key: 3
+2024-08-26 09:44:25,458 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 09:44:25,467 - INFO - Customer data saved successfully.
+2024-08-26 09:44:25,467 - INFO - Customer updated successfully with key: 4
+2024-08-26 09:44:25,467 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 09:44:25,480 - INFO - Customer data saved successfully.
+2024-08-26 09:44:25,480 - INFO - Customer updated successfully with key: 5
+2024-08-26 09:44:25,481 - INFO - 127.0.0.1 - - [26/Aug/2024 09:44:25] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:12:27,191 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:12:27,299 - INFO -  * Restarting with stat
+2024-08-26 10:12:27,687 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:12:27,700 - WARNING -  * Debugger is active!
+2024-08-26 10:12:27,709 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:12:28,725 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:12:28,818 - INFO -  * Restarting with stat
+2024-08-26 10:12:29,211 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:12:29,222 - WARNING -  * Debugger is active!
+2024-08-26 10:12:29,233 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:12:31,261 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 10:12:31,338 - INFO -  * Restarting with stat
+2024-08-26 10:12:31,683 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:12:31,683 - WARNING -  * Debugger is active!
+2024-08-26 10:12:31,702 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:12:34,734 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 10:12:34,836 - INFO -  * Restarting with stat
+2024-08-26 10:12:35,175 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:12:35,186 - WARNING -  * Debugger is active!
+2024-08-26 10:12:35,193 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:13:39,257 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:13:39,284 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:13:39,284 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:13:39,290 - INFO -  * Restarting with stat
+2024-08-26 10:13:39,610 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:13:39,626 - WARNING -  * Debugger is active!
+2024-08-26 10:13:39,641 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:15:34,851 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:15:34,851 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:15:34,872 - INFO - 6 customer records saved successfully.
+2024-08-26 10:15:34,872 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:15:34,873 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:15:34,882 - INFO - 7 customer records saved successfully.
+2024-08-26 10:15:34,883 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:15:34,883 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:15:34,895 - INFO - 8 customer records saved successfully.
+2024-08-26 10:15:34,896 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:15:34,896 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:15:34,905 - INFO - 9 customer records saved successfully.
+2024-08-26 10:15:34,906 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:15:34,906 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:15:34,919 - INFO - 10 customer records saved successfully.
+2024-08-26 10:15:34,920 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:15:34,920 - INFO - 127.0.0.1 - - [26/Aug/2024 10:15:34] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:19:20,136 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:19:20,166 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:19:20,166 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:19:20,170 - INFO -  * Restarting with stat
+2024-08-26 10:19:20,496 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:19:20,514 - WARNING -  * Debugger is active!
+2024-08-26 10:19:20,514 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:20:01,165 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:20:01,165 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:20:01,184 - INFO - All customer records saved successfully.
+2024-08-26 10:20:01,184 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:20:01,184 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:20:01,193 - INFO - All customer records saved successfully.
+2024-08-26 10:20:01,193 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:20:01,193 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:20:01,203 - INFO - All customer records saved successfully.
+2024-08-26 10:20:01,203 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:20:01,204 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:20:01,213 - INFO - All customer records saved successfully.
+2024-08-26 10:20:01,213 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:20:01,213 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:20:01,222 - INFO - All customer records saved successfully.
+2024-08-26 10:20:01,222 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:20:01,222 - INFO - 127.0.0.1 - - [26/Aug/2024 10:20:01] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:23:12,100 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:23:12,180 - INFO -  * Restarting with stat
+2024-08-26 10:23:12,544 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:23:12,557 - WARNING -  * Debugger is active!
+2024-08-26 10:23:12,562 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:24:02,269 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:24:02,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:24:02,308 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:24:02,311 - INFO -  * Restarting with stat
+2024-08-26 10:24:02,638 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:24:02,655 - WARNING -  * Debugger is active!
+2024-08-26 10:24:02,655 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:24:25,096 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:24:25,096 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:24:25,115 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:24:25,115 - INFO - All 1 customer records updated successfully.
+2024-08-26 10:24:25,115 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:24:25,124 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:24:25,124 - INFO - All 1 customer records updated successfully.
+2024-08-26 10:24:25,124 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:24:25,134 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:24:25,134 - INFO - All 1 customer records updated successfully.
+2024-08-26 10:24:25,134 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:24:25,145 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:24:25,145 - INFO - All 1 customer records updated successfully.
+2024-08-26 10:24:25,145 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:24:25,154 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:24:25,154 - INFO - All 1 customer records updated successfully.
+2024-08-26 10:24:25,155 - INFO - 127.0.0.1 - - [26/Aug/2024 10:24:25] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:27:30,060 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:27:30,149 - INFO -  * Restarting with stat
+2024-08-26 10:27:30,515 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:27:30,525 - WARNING -  * Debugger is active!
+2024-08-26 10:27:30,531 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:27:32,549 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 10:27:32,641 - INFO -  * Restarting with stat
+2024-08-26 10:27:33,002 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:27:33,014 - WARNING -  * Debugger is active!
+2024-08-26 10:27:33,021 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:27:45,505 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:27:45,535 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:27:45,535 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:27:45,541 - INFO -  * Restarting with stat
+2024-08-26 10:27:45,905 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:27:45,936 - WARNING -  * Debugger is active!
+2024-08-26 10:27:45,936 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:28:11,148 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:28:11,176 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:28:11,176 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:28:11,181 - INFO -  * Restarting with stat
+2024-08-26 10:28:11,503 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:28:11,521 - WARNING -  * Debugger is active!
+2024-08-26 10:28:11,521 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:28:32,933 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:28:32,933 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:28:32,947 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "[33mPUT /customers/1 HTTP/1.1[0m" 404 -
+2024-08-26 10:28:32,952 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "[33mPUT /customers/2 HTTP/1.1[0m" 404 -
+2024-08-26 10:28:32,958 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "[33mPUT /customers/3 HTTP/1.1[0m" 404 -
+2024-08-26 10:28:32,966 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "[33mPUT /customers/4 HTTP/1.1[0m" 404 -
+2024-08-26 10:28:32,972 - INFO - 127.0.0.1 - - [26/Aug/2024 10:28:32] "[33mPUT /customers/5 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:08,936 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:29:09,026 - INFO -  * Restarting with stat
+2024-08-26 10:29:09,376 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:29:09,376 - WARNING -  * Debugger is active!
+2024-08-26 10:29:09,392 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:29:21,892 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:29:21,892 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:29:21,896 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "[33mPUT /customers/1 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:21,900 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "[33mPUT /customers/2 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:21,903 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "[33mPUT /customers/3 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:21,911 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "[33mPUT /customers/4 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:21,916 - INFO - 127.0.0.1 - - [26/Aug/2024 10:29:21] "[33mPUT /customers/5 HTTP/1.1[0m" 404 -
+2024-08-26 10:29:41,636 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:29:41,737 - INFO -  * Restarting with stat
+2024-08-26 10:29:42,099 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:29:42,110 - WARNING -  * Debugger is active!
+2024-08-26 10:29:42,118 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:29:50,198 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 10:29:50,267 - INFO -  * Restarting with stat
+2024-08-26 10:29:50,592 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:29:50,603 - WARNING -  * Debugger is active!
+2024-08-26 10:29:50,610 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:29:58,144 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:29:58,171 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:29:58,171 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:29:58,171 - INFO -  * Restarting with stat
+2024-08-26 10:29:58,497 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:29:58,514 - WARNING -  * Debugger is active!
+2024-08-26 10:29:58,514 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:30:16,458 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:30:16,458 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:30:16,462 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "[33mPUT /customers/1 HTTP/1.1[0m" 404 -
+2024-08-26 10:30:16,467 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "[33mPUT /customers/2 HTTP/1.1[0m" 404 -
+2024-08-26 10:30:16,472 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "[33mPUT /customers/3 HTTP/1.1[0m" 404 -
+2024-08-26 10:30:16,478 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "[33mPUT /customers/4 HTTP/1.1[0m" 404 -
+2024-08-26 10:30:16,485 - INFO - 127.0.0.1 - - [26/Aug/2024 10:30:16] "[33mPUT /customers/5 HTTP/1.1[0m" 404 -
+2024-08-26 10:30:52,902 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:30:52,999 - INFO -  * Restarting with stat
+2024-08-26 10:30:53,354 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:30:53,362 - WARNING -  * Debugger is active!
+2024-08-26 10:30:53,371 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:31:03,326 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:31:03,356 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:31:03,356 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:31:03,361 - INFO -  * Restarting with stat
+2024-08-26 10:31:03,690 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:31:03,706 - WARNING -  * Debugger is active!
+2024-08-26 10:31:03,721 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:31:12,241 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:31:12,242 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:31:12,245 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "[33mPUT /customers/1 HTTP/1.1[0m" 404 -
+2024-08-26 10:31:12,250 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "[33mPUT /customers/2 HTTP/1.1[0m" 404 -
+2024-08-26 10:31:12,254 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "[33mPUT /customers/3 HTTP/1.1[0m" 404 -
+2024-08-26 10:31:12,261 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "[33mPUT /customers/4 HTTP/1.1[0m" 404 -
+2024-08-26 10:31:12,266 - INFO - 127.0.0.1 - - [26/Aug/2024 10:31:12] "[33mPUT /customers/5 HTTP/1.1[0m" 404 -
+2024-08-26 10:32:58,402 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:32:58,494 - INFO -  * Restarting with stat
+2024-08-26 10:32:58,834 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:32:58,834 - WARNING -  * Debugger is active!
+2024-08-26 10:32:58,850 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:33:04,898 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 10:33:04,978 - INFO -  * Restarting with stat
+2024-08-26 10:33:05,309 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:33:05,332 - WARNING -  * Debugger is active!
+2024-08-26 10:33:05,340 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:33:12,692 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:33:12,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:33:12,720 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:33:12,727 - INFO -  * Restarting with stat
+2024-08-26 10:33:13,069 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:33:13,080 - WARNING -  * Debugger is active!
+2024-08-26 10:33:13,087 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:33:20,533 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:33:20,533 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:33:20,550 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:33:20,551 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:33:20,558 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:33:20,558 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:33:20,566 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:33:20,566 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:33:20,577 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:33:20,578 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:33:20,589 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:33:20,589 - INFO - 127.0.0.1 - - [26/Aug/2024 10:33:20] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:37:58,989 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 10:37:59,080 - INFO -  * Restarting with stat
+2024-08-26 10:37:59,443 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:38:09,944 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:38:09,967 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:38:09,967 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:38:16,373 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:38:16,374 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:38:16,395 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:38:16,395 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:38:16,403 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:38:16,404 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:38:16,411 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:38:16,411 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:38:16,420 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:38:16,420 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:38:16,427 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:38:16,428 - INFO - 127.0.0.1 - - [26/Aug/2024 10:38:16] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 10:38:51,775 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:38:51,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 10:38:51,806 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 10:38:51,809 - INFO -  * Restarting with stat
+2024-08-26 10:38:52,131 - INFO - 5 customer records loaded successfully.
+2024-08-26 10:38:52,148 - WARNING -  * Debugger is active!
+2024-08-26 10:38:52,164 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 10:39:00,114 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 10:39:00,114 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "GET /customers HTTP/1.1" 200 -
+2024-08-26 10:39:00,123 - INFO - Customer with key '1' updated successfully.
+2024-08-26 10:39:00,123 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 10:39:00,132 - INFO - Customer with key '2' updated successfully.
+2024-08-26 10:39:00,133 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 10:39:00,142 - INFO - Customer with key '3' updated successfully.
+2024-08-26 10:39:00,142 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 10:39:00,152 - INFO - Customer with key '4' updated successfully.
+2024-08-26 10:39:00,152 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 10:39:00,160 - INFO - Customer with key '5' updated successfully.
+2024-08-26 10:39:00,161 - INFO - 127.0.0.1 - - [26/Aug/2024 10:39:00] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 11:38:45,377 - INFO - 5 customer records loaded successfully.
+2024-08-26 11:38:45,419 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 11:38:45,419 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:38:45,419 - INFO -  * Restarting with stat
+2024-08-26 11:38:45,772 - INFO - 5 customer records loaded successfully.
+2024-08-26 11:38:45,790 - WARNING -  * Debugger is active!
+2024-08-26 11:38:45,805 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 11:39:48,834 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 11:39:48,834 - INFO - 127.0.0.1 - - [26/Aug/2024 11:39:48] "GET /customers HTTP/1.1" 200 -
+2024-08-26 11:41:33,902 - INFO - 127.0.0.1 - - [26/Aug/2024 11:41:33] "[35m[1mPUT /customers/1 HTTP/1.1[0m" 500 -
+2024-08-26 11:44:33,734 - INFO - Customer with key '1' updated successfully.
+2024-08-26 11:44:33,734 - INFO - 127.0.0.1 - - [26/Aug/2024 11:44:33] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 11:53:12,292 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 11:53:12,376 - INFO -  * Restarting with stat
+2024-08-26 11:53:12,743 - INFO - 5 customer records loaded successfully.
+2024-08-26 11:53:12,764 - WARNING -  * Debugger is active!
+2024-08-26 11:53:12,774 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:02:12,347 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 12:02:12,439 - INFO -  * Restarting with stat
+2024-08-26 12:02:12,807 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:02:12,819 - WARNING -  * Debugger is active!
+2024-08-26 12:02:12,824 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:02:21,109 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:02:21,138 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 12:02:21,139 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 12:02:21,143 - INFO -  * Restarting with stat
+2024-08-26 12:02:21,492 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:02:21,504 - WARNING -  * Debugger is active!
+2024-08-26 12:02:21,511 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:02:37,301 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 12:02:37,301 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "GET /customers HTTP/1.1" 200 -
+2024-08-26 12:02:37,310 - INFO - Customer with key '1' updated successfully.
+2024-08-26 12:02:37,315 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "[35m[1mPUT /customers/1 HTTP/1.1[0m" 500 -
+2024-08-26 12:02:37,397 - INFO - Customer with key '2' updated successfully.
+2024-08-26 12:02:37,404 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "[35m[1mPUT /customers/2 HTTP/1.1[0m" 500 -
+2024-08-26 12:02:37,456 - INFO - Customer with key '3' updated successfully.
+2024-08-26 12:02:37,460 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "[35m[1mPUT /customers/3 HTTP/1.1[0m" 500 -
+2024-08-26 12:02:37,499 - INFO - Customer with key '4' updated successfully.
+2024-08-26 12:02:37,501 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "[35m[1mPUT /customers/4 HTTP/1.1[0m" 500 -
+2024-08-26 12:02:37,551 - INFO - Customer with key '5' updated successfully.
+2024-08-26 12:02:37,555 - INFO - 127.0.0.1 - - [26/Aug/2024 12:02:37] "[35m[1mPUT /customers/5 HTTP/1.1[0m" 500 -
+2024-08-26 12:09:05,121 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 12:09:05,236 - INFO -  * Restarting with stat
+2024-08-26 12:09:05,737 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:09:05,750 - WARNING -  * Debugger is active!
+2024-08-26 12:09:05,758 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:09:07,792 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-26 12:09:07,868 - INFO -  * Restarting with stat
+2024-08-26 12:09:08,274 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:09:08,280 - WARNING -  * Debugger is active!
+2024-08-26 12:09:08,292 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:09:26,357 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:09:26,384 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 12:09:26,384 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 12:09:26,391 - INFO -  * Restarting with stat
+2024-08-26 12:09:26,714 - INFO - 5 customer records loaded successfully.
+2024-08-26 12:09:26,730 - WARNING -  * Debugger is active!
+2024-08-26 12:09:26,730 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:09:36,395 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 12:09:36,395 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "GET /customers HTTP/1.1" 200 -
+2024-08-26 12:09:36,415 - INFO - Customer with key '1' updated successfully.
+2024-08-26 12:09:36,415 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 12:09:36,424 - INFO - Customer with key '2' updated successfully.
+2024-08-26 12:09:36,424 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 12:09:36,435 - INFO - Customer with key '3' updated successfully.
+2024-08-26 12:09:36,435 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 12:09:36,445 - INFO - Customer with key '4' updated successfully.
+2024-08-26 12:09:36,445 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 12:09:36,455 - INFO - Customer with key '5' updated successfully.
+2024-08-26 12:09:36,455 - INFO - 127.0.0.1 - - [26/Aug/2024 12:09:36] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 12:14:27,937 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 12:14:28,021 - INFO -  * Restarting with stat
+2024-08-26 12:14:28,430 - WARNING -  * Debugger is active!
+2024-08-26 12:14:28,437 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:14:44,078 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 12:14:44,080 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 12:14:44,085 - INFO -  * Restarting with stat
+2024-08-26 12:14:44,430 - WARNING -  * Debugger is active!
+2024-08-26 12:14:44,438 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 12:14:52,729 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 12:14:52,729 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "GET /customers HTTP/1.1" 200 -
+2024-08-26 12:14:52,749 - INFO - Customer with key '1' updated successfully.
+2024-08-26 12:14:52,749 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 12:14:52,760 - INFO - Customer with key '2' updated successfully.
+2024-08-26 12:14:52,760 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 12:14:52,769 - INFO - Customer with key '3' updated successfully.
+2024-08-26 12:14:52,769 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 12:14:52,778 - INFO - Customer with key '4' updated successfully.
+2024-08-26 12:14:52,779 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 12:14:52,788 - INFO - Customer with key '5' updated successfully.
+2024-08-26 12:14:52,788 - INFO - 127.0.0.1 - - [26/Aug/2024 12:14:52] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 12:15:11,066 - INFO - Customer with key '1' updated successfully.
+2024-08-26 12:15:11,067 - INFO - 127.0.0.1 - - [26/Aug/2024 12:15:11] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 12:15:22,463 - INFO - 127.0.0.1 - - [26/Aug/2024 12:15:22] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-26 12:15:28,987 - INFO - 127.0.0.1 - - [26/Aug/2024 12:15:28] "[33mGET /customers/ HTTP/1.1[0m" 404 -
+2024-08-26 12:15:32,643 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 12:15:32,643 - INFO - 127.0.0.1 - - [26/Aug/2024 12:15:32] "GET /customers HTTP/1.1" 200 -
+2024-08-26 12:21:21,134 - INFO - 127.0.0.1 - - [26/Aug/2024 12:21:21] "[31m[1mGET /customers/2 HTTP/1.1[0m" 405 -
+2024-08-26 12:22:21,209 - INFO - Customer with key '1' updated successfully.
+2024-08-26 12:22:21,209 - INFO - 127.0.0.1 - - [26/Aug/2024 12:22:21] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 12:22:38,745 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 12:22:38,746 - INFO - 127.0.0.1 - - [26/Aug/2024 12:22:38] "GET /customers HTTP/1.1" 200 -
+2024-08-26 14:58:55,141 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 14:58:55,141 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 14:58:55,145 - INFO -  * Restarting with stat
+2024-08-26 14:58:55,517 - WARNING -  * Debugger is active!
+2024-08-26 14:58:55,523 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 14:59:09,502 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 14:59:09,503 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "GET /customers HTTP/1.1" 200 -
+2024-08-26 14:59:09,521 - INFO - Customer with key '1' updated successfully.
+2024-08-26 14:59:09,522 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 14:59:09,532 - INFO - Customer with key '2' updated successfully.
+2024-08-26 14:59:09,532 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 14:59:09,543 - INFO - Customer with key '3' updated successfully.
+2024-08-26 14:59:09,544 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 14:59:09,553 - INFO - Customer with key '4' updated successfully.
+2024-08-26 14:59:09,554 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 14:59:09,563 - INFO - Customer with key '5' updated successfully.
+2024-08-26 14:59:09,563 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:09] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 14:59:42,572 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 14:59:42,573 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:42] "GET /customers HTTP/1.1" 200 -
+2024-08-26 14:59:52,019 - INFO - 127.0.0.1 - - [26/Aug/2024 14:59:52] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-26 15:00:01,357 - INFO - 127.0.0.1 - - [26/Aug/2024 15:00:01] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-26 15:00:06,327 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 15:00:06,327 - INFO - 127.0.0.1 - - [26/Aug/2024 15:00:06] "GET /customers HTTP/1.1" 200 -
+2024-08-26 15:19:08,827 - INFO - 127.0.0.1 - - [26/Aug/2024 15:19:08] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:22:11,363 - INFO - 127.0.0.1 - - [26/Aug/2024 15:22:11] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:23:44,598 - INFO - 127.0.0.1 - - [26/Aug/2024 15:23:44] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:23:55,275 - INFO - 127.0.0.1 - - [26/Aug/2024 15:23:55] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:24:01,856 - INFO - Customer with key '1' updated successfully.
+2024-08-26 15:24:01,856 - INFO - 127.0.0.1 - - [26/Aug/2024 15:24:01] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 15:41:16,888 - INFO - 127.0.0.1 - - [26/Aug/2024 15:41:16] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:41:28,394 - INFO - 127.0.0.1 - - [26/Aug/2024 15:41:28] "[31m[1mPOST /customers/1 HTTP/1.1[0m" 405 -
+2024-08-26 15:41:31,986 - INFO - 127.0.0.1 - - [26/Aug/2024 15:41:31] "[31m[1mPUT /customers/1 HTTP/1.1[0m" 415 -
+2024-08-26 15:41:51,983 - INFO - 127.0.0.1 - - [26/Aug/2024 15:41:51] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-26 15:42:07,759 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 15:42:07,759 - INFO - 127.0.0.1 - - [26/Aug/2024 15:42:07] "GET /customers HTTP/1.1" 200 -
+2024-08-26 16:22:10,104 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 16:22:10,104 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 16:22:10,111 - INFO -  * Restarting with stat
+2024-08-26 16:22:10,482 - WARNING -  * Debugger is active!
+2024-08-26 16:22:10,489 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 16:22:30,729 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 16:22:30,730 - INFO - 127.0.0.1 - - [26/Aug/2024 16:22:30] "GET /customers HTTP/1.1" 200 -
+2024-08-26 16:22:42,628 - INFO - 127.0.0.1 - - [26/Aug/2024 16:22:42] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-26 16:22:53,332 - INFO - Customer with key '1' updated successfully.
+2024-08-26 16:22:53,332 - INFO - 127.0.0.1 - - [26/Aug/2024 16:22:53] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 16:28:44,657 - INFO - 127.0.0.1 - - [26/Aug/2024 16:28:44] "[31m[1mGET /customers/1?name=Ece&email=gmail HTTP/1.1[0m" 405 -
+2024-08-26 17:06:08,059 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 17:06:08,060 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "GET /customers HTTP/1.1" 200 -
+2024-08-26 17:06:08,087 - INFO - Customer with key '1' updated successfully.
+2024-08-26 17:06:08,087 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 17:06:08,115 - INFO - Customer with key '2' updated successfully.
+2024-08-26 17:06:08,115 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 17:06:08,142 - INFO - Customer with key '3' updated successfully.
+2024-08-26 17:06:08,142 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 17:06:08,170 - INFO - Customer with key '4' updated successfully.
+2024-08-26 17:06:08,171 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 17:06:08,192 - INFO - Customer with key '5' updated successfully.
+2024-08-26 17:06:08,193 - INFO - 127.0.0.1 - - [26/Aug/2024 17:06:08] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 17:10:58,778 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 17:10:58,780 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 17:10:58,786 - INFO -  * Restarting with stat
+2024-08-26 17:10:59,369 - WARNING -  * Debugger is active!
+2024-08-26 17:10:59,378 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 17:11:46,710 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 17:11:46,710 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "GET /customers HTTP/1.1" 200 -
+2024-08-26 17:11:46,760 - INFO - Customer with key '1' updated successfully.
+2024-08-26 17:11:46,760 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 17:11:46,786 - INFO - Customer with key '2' updated successfully.
+2024-08-26 17:11:46,786 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-26 17:11:46,811 - INFO - Customer with key '3' updated successfully.
+2024-08-26 17:11:46,811 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-26 17:11:46,826 - INFO - Customer with key '4' updated successfully.
+2024-08-26 17:11:46,827 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-26 17:11:46,845 - INFO - Customer with key '5' updated successfully.
+2024-08-26 17:11:46,845 - INFO - 127.0.0.1 - - [26/Aug/2024 17:11:46] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-26 17:13:30,757 - INFO - GET request received. Returning 5 customer records.
+2024-08-26 17:13:30,758 - INFO - 127.0.0.1 - - [26/Aug/2024 17:13:30] "GET /customers HTTP/1.1" 200 -
+2024-08-26 17:15:11,810 - INFO - 127.0.0.1 - - [26/Aug/2024 17:15:11] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-26 17:15:18,767 - INFO - Customer with key '1' updated successfully.
+2024-08-26 17:15:18,768 - INFO - 127.0.0.1 - - [26/Aug/2024 17:15:18] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-26 17:16:44,858 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 17:16:45,002 - INFO -  * Restarting with stat
+2024-08-26 17:16:45,639 - WARNING -  * Debugger is active!
+2024-08-26 17:16:45,651 - INFO -  * Debugger PIN: 507-096-398
+2024-08-26 17:17:19,895 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-26 17:17:19,999 - INFO -  * Restarting with stat
+2024-08-26 17:17:20,753 - WARNING -  * Debugger is active!
+2024-08-26 17:17:20,761 - INFO -  * Debugger PIN: 507-096-398
