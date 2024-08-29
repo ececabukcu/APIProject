@@ -50,11 +50,47 @@ def update_customer(key):
 def get_customers():
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute("SELECT * FROM Customers")
-    customers = {row['key']: dict(row) for row in cursor.fetchall()}
+
+    # URL parametrelerini alıyoruz
+    name = request.args.get('name')
+    customer_city = request.args.get('customerCity')
+    email = request.args.get('email')
+
+    # Temel SQL sorgusunu oluşturuyoruz
+    query = "SELECT * FROM Customers WHERE 1=1"
+    params = []
+
+    # Eğer parametreler mevcutsa, sorguya ekliyoruz
+    if name:
+        query += " AND name LIKE ?"
+        params.append(f"%{name}%")
+    if customer_city:
+        query += " AND customerCity LIKE ?"
+        params.append(f"%{customer_city}%")
+    if email:
+        query += " AND email LIKE ?"
+        params.append(f"%{email}%")
+
+    cursor.execute(query, params)
+    customers = cursor.fetchall()
     conn.close()
-    logging.info(f"GET request received. Returning {len(customers)} customer records.")
-    return jsonify(customers), 200
+
+    if customers:
+        customer_list = []
+        for customer in customers:
+            customer_list.append({
+                'key': customer['key'],
+                'name': customer['name'],
+                'customerCity': customer['customerCity'],
+                'email': customer['email']
+            })
+        logging.info(f"Returned {len(customer_list)} customers based on filters.")
+        return jsonify(customer_list), 200
+    else:
+        logging.error("No customers found.")
+        return jsonify({"message": "No customers found"}), 404
+
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

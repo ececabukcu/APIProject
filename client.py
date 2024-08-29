@@ -22,7 +22,7 @@ def main():
     failure_details = []
 
     # Gönderilecek veriler
-    for customer in customers.values():
+    for customer in customers:  # Burada 'customers.values()' yerine sadece 'customers' kullanıyoruz.
         key = customer["key"]
         payload = {
             "key": customer["key"],

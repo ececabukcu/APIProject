@@ -1206,3 +1206,396 @@
 2024-08-26 17:17:19,999 - INFO -  * Restarting with stat
 2024-08-26 17:17:20,753 - WARNING -  * Debugger is active!
 2024-08-26 17:17:20,761 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 09:57:53,128 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 09:57:53,128 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 09:57:53,132 - INFO -  * Restarting with stat
+2024-08-27 09:57:53,495 - WARNING -  * Debugger is active!
+2024-08-27 09:57:53,495 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 09:58:02,020 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 09:58:02,021 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "GET /customers HTTP/1.1" 200 -
+2024-08-27 09:58:02,029 - INFO - Customer with key '1' updated successfully.
+2024-08-27 09:58:02,030 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-27 09:58:02,041 - INFO - Customer with key '2' updated successfully.
+2024-08-27 09:58:02,041 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-27 09:58:02,050 - INFO - Customer with key '3' updated successfully.
+2024-08-27 09:58:02,050 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-27 09:58:02,062 - INFO - Customer with key '4' updated successfully.
+2024-08-27 09:58:02,062 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-27 09:58:02,071 - INFO - Customer with key '5' updated successfully.
+2024-08-27 09:58:02,071 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:02] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-27 09:58:28,993 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 09:58:28,993 - INFO - 127.0.0.1 - - [27/Aug/2024 09:58:28] "GET /customers HTTP/1.1" 200 -
+2024-08-27 09:59:14,521 - INFO - Customer with key '1' updated successfully.
+2024-08-27 09:59:14,522 - INFO - 127.0.0.1 - - [27/Aug/2024 09:59:14] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-27 14:11:57,791 - INFO - Customer with key '1' updated successfully.
+2024-08-27 14:11:57,792 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:57] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-27 14:12:03,987 - INFO - 127.0.0.1 - - [27/Aug/2024 14:12:03] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-27 14:20:38,716 - INFO - 127.0.0.1 - - [27/Aug/2024 14:20:38] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-27 14:24:53,475 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 14:24:53,627 - INFO -  * Restarting with stat
+2024-08-27 14:24:54,205 - WARNING -  * Debugger is active!
+2024-08-27 14:24:54,209 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:25:10,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 14:25:10,827 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 14:25:10,831 - INFO -  * Restarting with stat
+2024-08-27 14:25:11,361 - WARNING -  * Debugger is active!
+2024-08-27 14:25:11,368 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:25:16,645 - INFO - 127.0.0.1 - - [27/Aug/2024 14:25:16] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-27 14:25:40,876 - INFO - Received PUT request to update customer with key '1'.
+2024-08-27 14:25:40,876 - INFO - Saving customer data: {'key': '1', 'name': 'Ece', 'customerCity': 'Sakarya', 'email': 'ece@gmail.com'}
+2024-08-27 14:25:40,876 - INFO - Establishing database connection.
+2024-08-27 14:25:40,878 - INFO - Database connection established successfully.
+2024-08-27 14:25:40,893 - INFO - Customer with key '1' saved successfully.
+2024-08-27 14:25:40,893 - INFO - Customer with key '1' updated successfully.
+2024-08-27 14:25:40,893 - INFO - 127.0.0.1 - - [27/Aug/2024 14:25:40] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-27 14:25:49,626 - INFO - Received GET request with parameters:
+2024-08-27 14:25:49,626 - INFO - Establishing database connection.
+2024-08-27 14:25:49,626 - INFO - Database connection established successfully.
+2024-08-27 14:25:49,626 - INFO - Applying filters: []
+2024-08-27 14:25:49,626 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:25:49,640 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:25:49,640 - INFO - 127.0.0.1 - - [27/Aug/2024 14:25:49] "GET /customers HTTP/1.1" 200 -
+2024-08-27 14:28:02,739 - INFO - Received GET request with parameters:
+2024-08-27 14:28:02,739 - INFO - Parameter: name = Ece
+2024-08-27 14:28:02,739 - INFO - Establishing database connection.
+2024-08-27 14:28:02,740 - INFO - Database connection established successfully.
+2024-08-27 14:28:02,740 - INFO - Applying filters: []
+2024-08-27 14:28:02,740 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:28:02,740 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:28:02,740 - INFO - 127.0.0.1 - - [27/Aug/2024 14:28:02] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-27 14:31:02,776 - INFO - Received GET request with parameters:
+2024-08-27 14:31:02,776 - INFO - Parameter: name_eq = Ece
+2024-08-27 14:31:02,777 - INFO - Establishing database connection.
+2024-08-27 14:31:02,778 - INFO - Database connection established successfully.
+2024-08-27 14:31:02,778 - INFO - Applying filters: []
+2024-08-27 14:31:02,778 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:31:02,779 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:31:02,779 - INFO - 127.0.0.1 - - [27/Aug/2024 14:31:02] "GET /customers?name_eq=Ece HTTP/1.1" 200 -
+2024-08-27 14:31:43,060 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 14:31:43,160 - INFO -  * Restarting with stat
+2024-08-27 14:31:43,571 - WARNING -  * Debugger is active!
+2024-08-27 14:31:43,578 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:31:58,641 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 14:31:58,641 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 14:31:58,646 - INFO -  * Restarting with stat
+2024-08-27 14:31:58,989 - WARNING -  * Debugger is active!
+2024-08-27 14:31:58,989 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:32:20,895 - INFO - Received GET request with parameters:
+2024-08-27 14:32:20,895 - INFO - Parameter: name_eq = Ece
+2024-08-27 14:32:20,896 - INFO - Establishing database connection.
+2024-08-27 14:32:20,896 - INFO - Database connection established successfully.
+2024-08-27 14:32:20,896 - INFO - Applying filters: []
+2024-08-27 14:32:20,896 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:32:20,896 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:32:20,896 - INFO - 127.0.0.1 - - [27/Aug/2024 14:32:20] "GET /customers?name_eq=Ece HTTP/1.1" 200 -
+2024-08-27 14:32:44,137 - INFO - Received GET request with parameters:
+2024-08-27 14:32:44,138 - INFO - Parameter: name = Ece
+2024-08-27 14:32:44,138 - INFO - Establishing database connection.
+2024-08-27 14:32:44,139 - INFO - Database connection established successfully.
+2024-08-27 14:32:44,140 - INFO - Applying filters: []
+2024-08-27 14:32:44,140 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:32:44,140 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:32:44,140 - INFO - 127.0.0.1 - - [27/Aug/2024 14:32:44] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-27 14:43:24,949 - INFO - Received GET request with parameters:
+2024-08-27 14:43:24,950 - INFO - Parameter: name = Ece
+2024-08-27 14:43:24,950 - INFO - Establishing database connection.
+2024-08-27 14:43:24,950 - INFO - Database connection established successfully.
+2024-08-27 14:43:24,950 - INFO - Applying filters: []
+2024-08-27 14:43:24,950 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:43:24,951 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:43:24,951 - INFO - 127.0.0.1 - - [27/Aug/2024 14:43:24] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-27 14:45:41,951 - INFO - 127.0.0.1 - - [27/Aug/2024 14:45:41] "[31m[1mPUT /customers?name=Ece HTTP/1.1[0m" 405 -
+2024-08-27 14:45:47,612 - INFO - Received GET request with parameters:
+2024-08-27 14:45:47,613 - INFO - Parameter: name = Ece
+2024-08-27 14:45:47,613 - INFO - Establishing database connection.
+2024-08-27 14:45:47,613 - INFO - Database connection established successfully.
+2024-08-27 14:45:47,613 - INFO - Applying filters: []
+2024-08-27 14:45:47,613 - INFO - Final SQL Query: SELECT * FROM Customers WHERE 1=1
+2024-08-27 14:45:47,614 - INFO - GET request successful. Returning 5 customer records.
+2024-08-27 14:45:47,614 - INFO - 127.0.0.1 - - [27/Aug/2024 14:45:47] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-27 14:47:48,739 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 14:47:48,856 - INFO -  * Restarting with stat
+2024-08-27 14:47:49,233 - WARNING -  * Debugger is active!
+2024-08-27 14:47:49,238 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:48:32,524 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 14:48:32,637 - INFO -  * Restarting with stat
+2024-08-27 14:48:32,989 - WARNING -  * Debugger is active!
+2024-08-27 14:48:33,005 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 14:54:21,229 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 14:54:21,230 - INFO - 127.0.0.1 - - [27/Aug/2024 14:54:21] "GET /customers?name=ece&email=gmail HTTP/1.1" 200 -
+2024-08-27 14:55:17,684 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 14:55:17,685 - INFO - 127.0.0.1 - - [27/Aug/2024 14:55:17] "GET /customers?name=ece&= HTTP/1.1" 200 -
+2024-08-27 14:56:24,061 - INFO - 127.0.0.1 - - [27/Aug/2024 14:56:24] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-27 14:56:31,876 - INFO - Customer with key '1' updated successfully.
+2024-08-27 14:56:31,877 - INFO - 127.0.0.1 - - [27/Aug/2024 14:56:31] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-27 15:22:44,354 - INFO - Customer with key '1' updated successfully.
+2024-08-27 15:22:44,355 - INFO - 127.0.0.1 - - [27/Aug/2024 15:22:44] "PUT /customers/1?name=Ece HTTP/1.1" 200 -
+2024-08-27 15:22:52,385 - INFO - 127.0.0.1 - - [27/Aug/2024 15:22:52] "[31m[1mGET /customers/1?name=Ece HTTP/1.1[0m" 405 -
+2024-08-27 15:39:47,528 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 15:39:47,626 - INFO -  * Restarting with stat
+2024-08-27 15:39:48,191 - WARNING -  * Debugger is active!
+2024-08-27 15:39:48,198 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 15:40:27,489 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-27 15:40:27,583 - INFO -  * Restarting with stat
+2024-08-27 15:40:27,959 - WARNING -  * Debugger is active!
+2024-08-27 15:40:27,967 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 15:40:46,727 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 15:40:46,727 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 15:40:46,727 - INFO -  * Restarting with stat
+2024-08-27 15:40:47,084 - WARNING -  * Debugger is active!
+2024-08-27 15:40:47,095 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:23:04,935 - INFO - 127.0.0.1 - - [27/Aug/2024 16:23:04] "[33mGET /customers/1?name=Ece HTTP/1.1[0m" 404 -
+2024-08-27 16:23:20,229 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-27 16:23:20,346 - INFO -  * Restarting with stat
+2024-08-27 16:23:20,728 - WARNING -  * Debugger is active!
+2024-08-27 16:23:20,739 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:23:24,772 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 16:23:24,862 - INFO -  * Restarting with stat
+2024-08-27 16:23:25,322 - WARNING -  * Debugger is active!
+2024-08-27 16:23:25,329 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:23:38,030 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 16:23:38,030 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 16:23:38,034 - INFO -  * Restarting with stat
+2024-08-27 16:23:38,381 - WARNING -  * Debugger is active!
+2024-08-27 16:23:38,382 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:23:41,959 - INFO - 127.0.0.1 - - [27/Aug/2024 16:23:41] "[33mGET /customers/1?name=Ece HTTP/1.1[0m" 404 -
+2024-08-27 16:23:46,025 - INFO - 127.0.0.1 - - [27/Aug/2024 16:23:46] "[33mPUT /customers/1?name=Ece HTTP/1.1[0m" 404 -
+2024-08-27 16:25:50,974 - INFO - 127.0.0.1 - - [27/Aug/2024 16:25:50] "[33mPUT /customers/1?name=Ece HTTP/1.1[0m" 404 -
+2024-08-27 16:25:58,438 - INFO - 127.0.0.1 - - [27/Aug/2024 16:25:58] "[33mPUT /customers/1 HTTP/1.1[0m" 404 -
+2024-08-27 16:26:06,756 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 16:26:06,757 - INFO - 127.0.0.1 - - [27/Aug/2024 16:26:06] "GET /customers HTTP/1.1" 200 -
+2024-08-27 16:26:14,140 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 16:26:14,140 - INFO - 127.0.0.1 - - [27/Aug/2024 16:26:14] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-27 16:26:19,676 - INFO - 127.0.0.1 - - [27/Aug/2024 16:26:19] "[31m[1mPUT /customers?name=Ece HTTP/1.1[0m" 405 -
+2024-08-27 16:26:46,738 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 16:26:46,869 - INFO -  * Restarting with stat
+2024-08-27 16:26:47,278 - WARNING -  * Debugger is active!
+2024-08-27 16:26:47,283 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:27:00,395 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-27 16:27:00,484 - INFO -  * Restarting with stat
+2024-08-27 16:27:00,815 - WARNING -  * Debugger is active!
+2024-08-27 16:27:00,831 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:28:09,085 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:09] "[31m[1mPUT /customers?name=Ece HTTP/1.1[0m" 405 -
+2024-08-27 16:28:15,178 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:15] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-27 16:28:19,668 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 16:28:19,668 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:19] "GET /customers HTTP/1.1" 200 -
+2024-08-27 16:28:23,483 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:23] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-27 16:28:26,427 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-27 16:28:26,536 - INFO -  * Restarting with stat
+2024-08-27 16:28:27,046 - WARNING -  * Debugger is active!
+2024-08-27 16:28:27,053 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:28:30,088 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-27 16:28:30,205 - INFO -  * Restarting with stat
+2024-08-27 16:28:30,679 - WARNING -  * Debugger is active!
+2024-08-27 16:28:30,696 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:28:43,464 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 16:28:43,464 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 16:28:43,467 - INFO -  * Restarting with stat
+2024-08-27 16:28:43,818 - WARNING -  * Debugger is active!
+2024-08-27 16:28:43,834 - INFO -  * Debugger PIN: 507-096-398
+2024-08-27 16:28:47,055 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:47] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-27 16:28:53,003 - INFO - GET request received. Returning 5 customer records.
+2024-08-27 16:28:53,004 - INFO - 127.0.0.1 - - [27/Aug/2024 16:28:53] "GET /customers HTTP/1.1" 200 -
+2024-08-27 16:29:00,186 - INFO - 127.0.0.1 - - [27/Aug/2024 16:29:00] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-27 16:29:08,695 - INFO - 127.0.0.1 - - [27/Aug/2024 16:29:08] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-27 16:29:23,885 - INFO - Customer with key '1' updated successfully.
+2024-08-27 16:29:23,886 - INFO - 127.0.0.1 - - [27/Aug/2024 16:29:23] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-29 09:24:45,424 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:24:45,425 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:24:45,428 - INFO -  * Restarting with stat
+2024-08-29 09:24:46,054 - WARNING -  * Debugger is active!
+2024-08-29 09:24:46,071 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:25:28,496 - INFO - GET request received. Returning 5 customer records.
+2024-08-29 09:25:28,497 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:25:28,505 - INFO - Customer with key '1' updated successfully.
+2024-08-29 09:25:28,506 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-29 09:25:28,516 - INFO - Customer with key '2' updated successfully.
+2024-08-29 09:25:28,516 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-29 09:25:28,526 - INFO - Customer with key '3' updated successfully.
+2024-08-29 09:25:28,527 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-29 09:25:28,538 - INFO - Customer with key '4' updated successfully.
+2024-08-29 09:25:28,538 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-29 09:25:28,550 - INFO - Customer with key '5' updated successfully.
+2024-08-29 09:25:28,550 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:28] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-29 09:25:41,606 - INFO - GET request received. Returning 5 customer records.
+2024-08-29 09:25:41,606 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:41] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:25:51,398 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:51] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:25:57,979 - INFO - 127.0.0.1 - - [29/Aug/2024 09:25:57] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:26:11,992 - INFO - Customer with key '1' updated successfully.
+2024-08-29 09:26:11,992 - INFO - 127.0.0.1 - - [29/Aug/2024 09:26:11] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-29 09:26:17,780 - INFO - 127.0.0.1 - - [29/Aug/2024 09:26:17] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:32:55,510 - INFO -  * Detected change in 'c:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:32:55,595 - INFO -  * Restarting with stat
+2024-08-29 09:32:56,003 - WARNING -  * Debugger is active!
+2024-08-29 09:32:56,011 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:33:45,367 - INFO -  * Detected change in 'c:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:33:45,436 - INFO -  * Restarting with stat
+2024-08-29 09:33:45,844 - WARNING -  * Debugger is active!
+2024-08-29 09:33:45,852 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:33:51,916 - INFO -  * Detected change in 'c:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:33:52,014 - INFO -  * Restarting with stat
+2024-08-29 09:33:52,541 - WARNING -  * Debugger is active!
+2024-08-29 09:33:52,552 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:33:53,574 - INFO -  * Detected change in 'c:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:33:53,645 - INFO -  * Restarting with stat
+2024-08-29 09:33:54,069 - WARNING -  * Debugger is active!
+2024-08-29 09:33:54,075 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:34:11,786 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:34:11,786 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:34:11,791 - INFO -  * Restarting with stat
+2024-08-29 09:34:12,208 - WARNING -  * Debugger is active!
+2024-08-29 09:34:12,209 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:34:47,068 - INFO - 127.0.0.1 - - [29/Aug/2024 09:34:47] "[33mGET /customers HTTP/1.1[0m" 404 -
+2024-08-29 09:35:08,655 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:35:08,744 - INFO -  * Restarting with stat
+2024-08-29 09:35:09,128 - WARNING -  * Debugger is active!
+2024-08-29 09:35:09,128 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:35:24,256 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:35:24,355 - INFO -  * Restarting with stat
+2024-08-29 09:35:24,734 - WARNING -  * Debugger is active!
+2024-08-29 09:35:24,750 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:35:40,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:35:40,232 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:35:40,232 - INFO -  * Restarting with stat
+2024-08-29 09:35:40,586 - WARNING -  * Debugger is active!
+2024-08-29 09:35:40,602 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:35:57,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:35:57,728 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:35:57,732 - INFO -  * Restarting with stat
+2024-08-29 09:35:58,081 - WARNING -  * Debugger is active!
+2024-08-29 09:35:58,081 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:36:07,344 - INFO - 127.0.0.1 - - [29/Aug/2024 09:36:07] "[33mGET /customers HTTP/1.1[0m" 404 -
+2024-08-29 09:39:07,426 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:39:07,516 - INFO -  * Restarting with stat
+2024-08-29 09:39:07,920 - WARNING -  * Debugger is active!
+2024-08-29 09:39:07,929 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:39:21,645 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:39:21,645 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:39:21,649 - INFO -  * Restarting with stat
+2024-08-29 09:39:21,999 - WARNING -  * Debugger is active!
+2024-08-29 09:39:22,006 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:39:27,102 - INFO - Returned 5 customers.
+2024-08-29 09:39:27,102 - INFO - 127.0.0.1 - - [29/Aug/2024 09:39:27] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:43:22,642 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:43:22,750 - INFO -  * Restarting with stat
+2024-08-29 09:43:23,134 - WARNING -  * Debugger is active!
+2024-08-29 09:43:23,141 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:43:26,169 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:43:26,249 - INFO -  * Restarting with stat
+2024-08-29 09:43:26,587 - WARNING -  * Debugger is active!
+2024-08-29 09:43:26,604 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:44:01,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:44:01,526 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:44:01,534 - INFO -  * Restarting with stat
+2024-08-29 09:44:01,875 - WARNING -  * Debugger is active!
+2024-08-29 09:44:01,890 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:44:13,334 - INFO - Returned 5 customers.
+2024-08-29 09:44:13,334 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:44:13,354 - INFO - Customer with key '1' updated successfully.
+2024-08-29 09:44:13,354 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-29 09:44:13,364 - INFO - Customer with key '2' updated successfully.
+2024-08-29 09:44:13,364 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "PUT /customers/2 HTTP/1.1" 200 -
+2024-08-29 09:44:13,376 - INFO - Customer with key '3' updated successfully.
+2024-08-29 09:44:13,376 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "PUT /customers/3 HTTP/1.1" 200 -
+2024-08-29 09:44:13,386 - INFO - Customer with key '4' updated successfully.
+2024-08-29 09:44:13,387 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "PUT /customers/4 HTTP/1.1" 200 -
+2024-08-29 09:44:13,395 - INFO - Customer with key '5' updated successfully.
+2024-08-29 09:44:13,395 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:13] "PUT /customers/5 HTTP/1.1" 200 -
+2024-08-29 09:44:18,462 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:18] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:44:19,922 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:19] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:44:23,915 - INFO - Customer with key '1' updated successfully.
+2024-08-29 09:44:23,915 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:23] "PUT /customers/1 HTTP/1.1" 200 -
+2024-08-29 09:44:32,139 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:32] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:44:36,476 - INFO - Returned 5 customers.
+2024-08-29 09:44:36,476 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:36] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:44:40,466 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:40] "[31m[1mPUT /customers HTTP/1.1[0m" 405 -
+2024-08-29 09:44:53,478 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:53] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:46:32,937 - INFO - 127.0.0.1 - - [29/Aug/2024 09:46:32] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:46:34,282 - INFO - 127.0.0.1 - - [29/Aug/2024 09:46:34] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:46:48,676 - INFO - 127.0.0.1 - - [29/Aug/2024 09:46:48] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:46:49,700 - INFO - 127.0.0.1 - - [29/Aug/2024 09:46:49] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:47:03,883 - INFO - 127.0.0.1 - - [29/Aug/2024 09:47:03] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:47:07,768 - INFO - Returned 5 customers.
+2024-08-29 09:47:07,768 - INFO - 127.0.0.1 - - [29/Aug/2024 09:47:07] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:47:17,770 - INFO - 127.0.0.1 - - [29/Aug/2024 09:47:17] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:49:23,433 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:23] "[33mGET /customer/1 HTTP/1.1[0m" 404 -
+2024-08-29 09:49:30,233 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:30] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:49:34,123 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:34] "[31m[1mGET /customers/2 HTTP/1.1[0m" 405 -
+2024-08-29 09:49:38,210 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:38] "[31m[1mGET /customers/5 HTTP/1.1[0m" 405 -
+2024-08-29 09:49:44,385 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:44] "[31m[1mGET /customers/Ece HTTP/1.1[0m" 405 -
+2024-08-29 09:51:04,209 - INFO - 127.0.0.1 - - [29/Aug/2024 09:51:04] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:53:16,738 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:53:16,806 - INFO -  * Restarting with stat
+2024-08-29 09:53:17,201 - WARNING -  * Debugger is active!
+2024-08-29 09:53:17,207 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:53:22,247 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 09:53:22,327 - INFO -  * Restarting with stat
+2024-08-29 09:53:22,757 - WARNING -  * Debugger is active!
+2024-08-29 09:53:22,767 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:53:24,791 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:53:24,880 - INFO -  * Restarting with stat
+2024-08-29 09:53:25,258 - WARNING -  * Debugger is active!
+2024-08-29 09:53:25,274 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:53:31,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-29 09:53:31,456 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-29 09:53:31,456 - INFO -  * Restarting with stat
+2024-08-29 09:53:31,802 - WARNING -  * Debugger is active!
+2024-08-29 09:53:31,802 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:53:46,189 - INFO - 127.0.0.1 - - [29/Aug/2024 09:53:46] "[31m[1mGET /customers/1?name=Ece HTTP/1.1[0m" 405 -
+2024-08-29 09:53:48,521 - INFO - 127.0.0.1 - - [29/Aug/2024 09:53:48] "[31m[1mGET /customers/1?name=Ece HTTP/1.1[0m" 405 -
+2024-08-29 09:53:52,067 - INFO - 127.0.0.1 - - [29/Aug/2024 09:53:52] "[31m[1mPUT /customers/1?name=Ece HTTP/1.1[0m" 415 -
+2024-08-29 09:53:59,785 - INFO - 127.0.0.1 - - [29/Aug/2024 09:53:59] "[31m[1mGET /customers/1?name=Ece HTTP/1.1[0m" 405 -
+2024-08-29 09:54:13,714 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:54:13,714 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:13] "GET /customers?name=Ece&customerCity=Istanbul HTTP/1.1" 200 -
+2024-08-29 09:54:32,282 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:54:32,282 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:32] "GET /customers?customerCity=Istanbul HTTP/1.1" 200 -
+2024-08-29 09:54:36,989 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:54:36,989 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:36] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-29 09:54:41,154 - INFO - Returned 5 customers based on filters.
+2024-08-29 09:54:41,154 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:41] "GET /customers HTTP/1.1" 200 -
+2024-08-29 09:54:44,244 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:54:44,244 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:44] "GET /customers?name=Ece HTTP/1.1" 200 -
+2024-08-29 09:54:47,222 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:54:47,223 - INFO - 127.0.0.1 - - [29/Aug/2024 09:54:47] "GET /customers?name=Ece&customerCity=Istanbul HTTP/1.1" 200 -
+2024-08-29 09:55:04,639 - ERROR - No customers found.
+2024-08-29 09:55:04,639 - INFO - 127.0.0.1 - - [29/Aug/2024 09:55:04] "[33mGET /customers?name=Jane&customerCity=Istanbul HTTP/1.1[0m" 404 -
+2024-08-29 09:55:08,906 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:55:08,906 - INFO - 127.0.0.1 - - [29/Aug/2024 09:55:08] "GET /customers?name=Jane HTTP/1.1" 200 -
+2024-08-29 09:55:13,565 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:55:13,645 - INFO -  * Restarting with stat
+2024-08-29 09:55:14,138 - WARNING -  * Debugger is active!
+2024-08-29 09:55:14,147 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:55:24,408 - INFO - 127.0.0.1 - - [29/Aug/2024 09:55:24] "[31m[1mGET /customers/1 HTTP/1.1[0m" 405 -
+2024-08-29 09:55:30,885 - INFO - 127.0.0.1 - - [29/Aug/2024 09:55:30] "[31m[1mGET /customers/1?customerCity=Istanbul HTTP/1.1[0m" 405 -
+2024-08-29 09:55:35,837 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:55:35,837 - INFO - 127.0.0.1 - - [29/Aug/2024 09:55:35] "GET /customers?customerCity=Istanbul HTTP/1.1" 200 -
+2024-08-29 09:55:40,330 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\client.py', reloading
+2024-08-29 09:55:40,425 - INFO -  * Restarting with stat
+2024-08-29 09:55:40,808 - WARNING -  * Debugger is active!
+2024-08-29 09:55:40,824 - INFO -  * Debugger PIN: 507-096-398
+2024-08-29 09:59:11,714 - INFO - Returned 1 customers based on filters.
+2024-08-29 09:59:11,715 - INFO - 127.0.0.1 - - [29/Aug/2024 09:59:11] "GET /customers?customerCity=Istanbul&email=gmail HTTP/1.1" 200 -
+2024-08-29 09:59:15,744 - INFO - Returned 5 customers based on filters.
+2024-08-29 09:59:15,745 - INFO - 127.0.0.1 - - [29/Aug/2024 09:59:15] "GET /customers?email=gmail HTTP/1.1" 200 -
+2024-08-29 10:05:14,312 - INFO - 127.0.0.1 - - [29/Aug/2024 10:05:14] "[31m[1mPUT /customers?email=gmail HTTP/1.1[0m" 405 -
+2024-08-29 10:12:00,961 - INFO - Customer with key '6' updated successfully.
+2024-08-29 10:12:00,961 - INFO - 127.0.0.1 - - [29/Aug/2024 10:12:00] "PUT /customers/6 HTTP/1.1" 200 -
+2024-08-29 10:12:14,310 - INFO - Returned 6 customers based on filters.
+2024-08-29 10:12:14,311 - INFO - 127.0.0.1 - - [29/Aug/2024 10:12:14] "GET /customers HTTP/1.1" 200 -
+2024-08-29 10:12:46,142 - INFO -  * Detected change in 'C:\\Users\\ecabukcu\\Desktop\\store\\server.py', reloading
+2024-08-29 10:12:46,242 - INFO -  * Restarting with stat
+2024-08-29 10:12:46,665 - WARNING -  * Debugger is active!
+2024-08-29 10:12:46,669 - INFO -  * Debugger PIN: 507-096-398

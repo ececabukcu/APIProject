@@ -3842,3 +3842,23 @@ KeyError: '5'
 2024-08-26 17:11:46,829 - INFO - Transaction stored successfully for customer 4. Response: {'customer': {'customerCity': 'Houston', 'email': 'lisa@gmail.com', 'key': '4', 'name': 'Lisa White'}, 'message': 'Customer updated successfully'}
 2024-08-26 17:11:46,846 - INFO - Transaction stored successfully for customer 5. Response: {'customer': {'customerCity': 'Phoenix', 'email': 'gary@gmail.com', 'key': '5', 'name': 'Gary Black'}, 'message': 'Customer updated successfully'}
 2024-08-26 17:11:46,848 - INFO - 5 data successfully transferred, 0 data failed to transfer.
+2024-08-27 09:58:02,031 - INFO - Transaction stored successfully for customer 1. Response: {'customer': {'customerCity': 'Istanbul', 'email': 'ece@gmail.com', 'key': '1', 'name': 'Ece'}, 'message': 'Customer updated successfully'}
+2024-08-27 09:58:02,042 - INFO - Transaction stored successfully for customer 2. Response: {'customer': {'customerCity': 'Los Angeles', 'email': 'hane@gmail.com', 'key': '2', 'name': 'Jane Smith'}, 'message': 'Customer updated successfully'}
+2024-08-27 09:58:02,051 - INFO - Transaction stored successfully for customer 3. Response: {'customer': {'customerCity': 'Chicago', 'email': 'jim@gmail.com', 'key': '3', 'name': 'Jim Brown'}, 'message': 'Customer updated successfully'}
+2024-08-27 09:58:02,063 - INFO - Transaction stored successfully for customer 4. Response: {'customer': {'customerCity': 'Houston', 'email': 'lisa@gmail.com', 'key': '4', 'name': 'Lisa White'}, 'message': 'Customer updated successfully'}
+2024-08-27 09:58:02,072 - INFO - Transaction stored successfully for customer 5. Response: {'customer': {'customerCity': 'Phoenix', 'email': 'gary@gmail.com', 'key': '5', 'name': 'Gary Black'}, 'message': 'Customer updated successfully'}
+2024-08-27 09:58:02,073 - INFO - 5 data successfully transferred, 0 data failed to transfer.
+2024-08-29 09:25:28,506 - INFO - Transaction stored successfully for customer 1. Response: {'customer': {'customerCity': 'Istanbul', 'email': 'ece@gmail.com', 'key': '1', 'name': 'Ece'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:25:28,517 - INFO - Transaction stored successfully for customer 2. Response: {'customer': {'customerCity': 'Los Angeles', 'email': 'hane@gmail.com', 'key': '2', 'name': 'Jane Smith'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:25:28,529 - INFO - Transaction stored successfully for customer 3. Response: {'customer': {'customerCity': 'Chicago', 'email': 'jim@gmail.com', 'key': '3', 'name': 'Jim Brown'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:25:28,539 - INFO - Transaction stored successfully for customer 4. Response: {'customer': {'customerCity': 'Houston', 'email': 'lisa@gmail.com', 'key': '4', 'name': 'Lisa White'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:25:28,551 - INFO - Transaction stored successfully for customer 5. Response: {'customer': {'customerCity': 'Phoenix', 'email': 'gary@gmail.com', 'key': '5', 'name': 'Gary Black'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:25:28,553 - INFO - 5 data successfully transferred, 0 data failed to transfer.
+2024-08-29 09:34:47,069 - ERROR - Failed to retrieve customers: 404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/customers
+2024-08-29 09:36:07,346 - ERROR - Failed to retrieve customers: 404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/customers
+2024-08-29 09:44:13,355 - INFO - Transaction stored successfully for customer 1. Response: {'customer': {'customerCity': 'Istanbul', 'email': 'ece@gmail.com', 'key': '1', 'name': 'Ece'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:44:13,365 - INFO - Transaction stored successfully for customer 2. Response: {'customer': {'customerCity': 'Los Angeles', 'email': 'hane@gmail.com', 'key': '2', 'name': 'Jane Smith'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:44:13,377 - INFO - Transaction stored successfully for customer 3. Response: {'customer': {'customerCity': 'Chicago', 'email': 'jim@gmail.com', 'key': '3', 'name': 'Jim Brown'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:44:13,387 - INFO - Transaction stored successfully for customer 4. Response: {'customer': {'customerCity': 'Houston', 'email': 'lisa@gmail.com', 'key': '4', 'name': 'Lisa White'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:44:13,396 - INFO - Transaction stored successfully for customer 5. Response: {'customer': {'customerCity': 'Phoenix', 'email': 'gary@gmail.com', 'key': '5', 'name': 'Gary Black'}, 'message': 'Customer updated successfully'}
+2024-08-29 09:44:13,399 - INFO - 5 data successfully transferred, 0 data failed to transfer.
